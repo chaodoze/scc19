@@ -2,9 +2,9 @@
   {
     "geo_id": "610345",
     "city": "Campbell",
-    "cases": "1918",
+    "cases": "1920",
     "population": "42470",
-    "rate": "4516"
+    "rate": "4521"
   },
   {
     "geo_id": "617610",
@@ -16,23 +16,23 @@
   {
     "geo_id": "629504",
     "city": "Gilroy",
-    "cases": "7333",
+    "cases": "7338",
     "population": "55525",
-    "rate": "13207"
+    "rate": "13216"
   },
   {
     "geo_id": "643280",
     "city": "Los Altos",
-    "cases": "638",
+    "cases": "639",
     "population": "30588",
-    "rate": "2086"
+    "rate": "2089"
   },
   {
     "geo_id": "643294",
     "city": "Los Altos Hills",
-    "cases": "208",
+    "cases": "209",
     "population": "8517",
-    "rate": "2442"
+    "rate": "2454"
   },
   {
     "geo_id": "644112",
@@ -44,9 +44,9 @@
   {
     "geo_id": "647766",
     "city": "Milpitas",
-    "cases": "3364",
+    "cases": "3371",
     "population": "77457",
-    "rate": "4343"
+    "rate": "4352"
   },
   {
     "geo_id": "648956",
@@ -58,56 +58,56 @@
   {
     "geo_id": "649278",
     "city": "Morgan Hill",
-    "cases": "3413",
+    "cases": "3419",
     "population": "43876",
-    "rate": "7779"
+    "rate": "7792"
   },
   {
     "geo_id": "649670",
     "city": "Mountain View",
-    "cases": "2840",
+    "cases": "2843",
     "population": "80993",
-    "rate": "3506"
+    "rate": "3510"
   },
   {
     "geo_id": "0",
     "city": "Other/Unknown",
-    "cases": "4217",
+    "cases": "4223",
     "population": "0"
   },
   {
     "geo_id": "655282",
     "city": "Palo Alto",
-    "cases": "1381",
+    "cases": "1383",
     "population": "67019",
-    "rate": "2061"
+    "rate": "2064"
   },
   {
     "geo_id": "668000",
     "city": "San Jose",
-    "cases": "73681",
+    "cases": "73778",
     "population": "1026658",
-    "rate": "7177"
+    "rate": "7186"
   },
   {
     "geo_id": "669084",
     "city": "Santa Clara",
-    "cases": "5032",
+    "cases": "5037",
     "population": "126209",
-    "rate": "3987"
+    "rate": "3991"
   },
   {
     "geo_id": "670280",
     "city": "Saratoga",
-    "cases": "594",
+    "cases": "595",
     "population": "30886",
-    "rate": "1923"
+    "rate": "1926"
   },
   {
     "geo_id": "677000",
     "city": "Sunnyvale",
-    "cases": "5177",
+    "cases": "5179",
     "population": "152323",
-    "rate": "3399"
+    "rate": "3400"
   }
 ]
