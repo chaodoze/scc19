@@ -16,16 +16,16 @@
   {
     "geo_id": "629504",
     "city": "Gilroy",
-    "cases": "7338",
+    "cases": "7340",
     "population": "55525",
-    "rate": "13216"
+    "rate": "13219"
   },
   {
     "geo_id": "643280",
     "city": "Los Altos",
-    "cases": "639",
+    "cases": "642",
     "population": "30588",
-    "rate": "2089"
+    "rate": "2099"
   },
   {
     "geo_id": "643294",
@@ -37,16 +37,16 @@
   {
     "geo_id": "644112",
     "city": "Los Gatos",
-    "cases": "1120",
+    "cases": "1119",
     "population": "30922",
-    "rate": "3622"
+    "rate": "3619"
   },
   {
     "geo_id": "647766",
     "city": "Milpitas",
-    "cases": "3371",
+    "cases": "3377",
     "population": "77457",
-    "rate": "4352"
+    "rate": "4360"
   },
   {
     "geo_id": "648956",
@@ -58,43 +58,43 @@
   {
     "geo_id": "649278",
     "city": "Morgan Hill",
-    "cases": "3419",
+    "cases": "3422",
     "population": "43876",
-    "rate": "7792"
+    "rate": "7799"
   },
   {
     "geo_id": "649670",
     "city": "Mountain View",
-    "cases": "2843",
+    "cases": "2849",
     "population": "80993",
-    "rate": "3510"
+    "rate": "3518"
   },
   {
     "geo_id": "0",
     "city": "Other/Unknown",
-    "cases": "4223",
+    "cases": "4213",
     "population": "0"
   },
   {
     "geo_id": "655282",
     "city": "Palo Alto",
-    "cases": "1383",
+    "cases": "1385",
     "population": "67019",
-    "rate": "2064"
+    "rate": "2067"
   },
   {
     "geo_id": "668000",
     "city": "San Jose",
-    "cases": "73778",
+    "cases": "73847",
     "population": "1026658",
-    "rate": "7186"
+    "rate": "7193"
   },
   {
     "geo_id": "669084",
     "city": "Santa Clara",
-    "cases": "5037",
+    "cases": "5040",
     "population": "126209",
-    "rate": "3991"
+    "rate": "3993"
   },
   {
     "geo_id": "670280",
@@ -106,8 +106,8 @@
   {
     "geo_id": "677000",
     "city": "Sunnyvale",
-    "cases": "5179",
+    "cases": "5180",
     "population": "152323",
-    "rate": "3400"
+    "rate": "3401"
   }
 ]
