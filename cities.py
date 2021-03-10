@@ -42,3 +42,5 @@ def write_db(db_name='./scc.db'):
     #   do nothing
 if __name__ == "__main__":
   write_db()
+
+# datasette publish vercel scc.db --project scc19 --install=datasette-vega

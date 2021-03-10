@@ -1,2 +1,5 @@
 sqlite-utils~=1.11
 GitPython~=3.0.2
+datasette
+datasette-vega
+datasette-publish-vercel
