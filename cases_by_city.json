@@ -9,16 +9,16 @@
   {
     "geo_id": "617610",
     "city": "Cupertino",
-    "cases": "821",
+    "cases": "823",
     "population": "60614",
-    "rate": "1354"
+    "rate": "1358"
   },
   {
     "geo_id": "629504",
     "city": "Gilroy",
-    "cases": "7368",
+    "cases": "7372",
     "population": "55525",
-    "rate": "13270"
+    "rate": "13277"
   },
   {
     "geo_id": "643280",
@@ -30,16 +30,16 @@
   {
     "geo_id": "643294",
     "city": "Los Altos Hills",
-    "cases": "210",
+    "cases": "212",
     "population": "8517",
-    "rate": "2466"
+    "rate": "2489"
   },
   {
     "geo_id": "644112",
     "city": "Los Gatos",
-    "cases": "1131",
+    "cases": "1134",
     "population": "30922",
-    "rate": "3658"
+    "rate": "3667"
   },
   {
     "geo_id": "647766",
@@ -51,16 +51,16 @@
   {
     "geo_id": "648956",
     "city": "Monte Sereno",
-    "cases": "81",
+    "cases": "82",
     "population": "3492",
-    "rate": "2320"
+    "rate": "2348"
   },
   {
     "geo_id": "649278",
     "city": "Morgan Hill",
-    "cases": "3439",
+    "cases": "3442",
     "population": "43876",
-    "rate": "7838"
+    "rate": "7845"
   },
   {
     "geo_id": "649670",
@@ -72,29 +72,29 @@
   {
     "geo_id": "0",
     "city": "Other/Unknown",
-    "cases": "4212",
+    "cases": "4218",
     "population": "0"
   },
   {
     "geo_id": "655282",
     "city": "Palo Alto",
-    "cases": "1397",
+    "cases": "1398",
     "population": "67019",
-    "rate": "2084"
+    "rate": "2086"
   },
   {
     "geo_id": "668000",
     "city": "San Jose",
-    "cases": "74226",
+    "cases": "74296",
     "population": "1026658",
-    "rate": "7230"
+    "rate": "7237"
   },
   {
     "geo_id": "669084",
     "city": "Santa Clara",
-    "cases": "5079",
+    "cases": "5087",
     "population": "126209",
-    "rate": "4024"
+    "rate": "4031"
   },
   {
     "geo_id": "670280",
@@ -106,8 +106,8 @@
   {
     "geo_id": "677000",
     "city": "Sunnyvale",
-    "cases": "5207",
+    "cases": "5217",
     "population": "152323",
-    "rate": "3418"
+    "rate": "3425"
   }
 ]
