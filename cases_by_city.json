@@ -44,9 +44,9 @@
   {
     "geo_id": "647766",
     "city": "Milpitas",
-    "cases": "3398",
+    "cases": "3402",
     "population": "77457",
-    "rate": "4387"
+    "rate": "4392"
   },
   {
     "geo_id": "648956",
@@ -58,43 +58,43 @@
   {
     "geo_id": "649278",
     "city": "Morgan Hill",
-    "cases": "3442",
+    "cases": "3444",
     "population": "43876",
-    "rate": "7845"
+    "rate": "7849"
   },
   {
     "geo_id": "649670",
     "city": "Mountain View",
-    "cases": "2860",
+    "cases": "2864",
     "population": "80993",
-    "rate": "3531"
+    "rate": "3536"
   },
   {
     "geo_id": "0",
     "city": "Other/Unknown",
-    "cases": "4218",
+    "cases": "4192",
     "population": "0"
   },
   {
     "geo_id": "655282",
     "city": "Palo Alto",
-    "cases": "1398",
+    "cases": "1400",
     "population": "67019",
-    "rate": "2086"
+    "rate": "2089"
   },
   {
     "geo_id": "668000",
     "city": "San Jose",
-    "cases": "74296",
+    "cases": "74376",
     "population": "1026658",
-    "rate": "7237"
+    "rate": "7244"
   },
   {
     "geo_id": "669084",
     "city": "Santa Clara",
-    "cases": "5087",
+    "cases": "5095",
     "population": "126209",
-    "rate": "4031"
+    "rate": "4037"
   },
   {
     "geo_id": "670280",
@@ -106,8 +106,8 @@
   {
     "geo_id": "677000",
     "city": "Sunnyvale",
-    "cases": "5217",
+    "cases": "5225",
     "population": "152323",
-    "rate": "3425"
+    "rate": "3430"
   }
 ]
