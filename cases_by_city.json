@@ -1,0 +1,113 @@
+[
+  {
+    "geo_id": "610345",
+    "city": "Campbell",
+    "cases": "1999",
+    "population": "42470",
+    "rate": "4707"
+  },
+  {
+    "geo_id": "617610",
+    "city": "Cupertino",
+    "cases": "865",
+    "population": "60614",
+    "rate": "1427"
+  },
+  {
+    "geo_id": "629504",
+    "city": "Gilroy",
+    "cases": "7466",
+    "population": "55525",
+    "rate": "13446"
+  },
+  {
+    "geo_id": "643280",
+    "city": "Los Altos",
+    "cases": "650",
+    "population": "30588",
+    "rate": "2125"
+  },
+  {
+    "geo_id": "643294",
+    "city": "Los Altos Hills",
+    "cases": "225",
+    "population": "8517",
+    "rate": "2642"
+  },
+  {
+    "geo_id": "644112",
+    "city": "Los Gatos",
+    "cases": "1180",
+    "population": "30922",
+    "rate": "3816"
+  },
+  {
+    "geo_id": "647766",
+    "city": "Milpitas",
+    "cases": "3517",
+    "population": "77457",
+    "rate": "4541"
+  },
+  {
+    "geo_id": "648956",
+    "city": "Monte Sereno",
+    "cases": "91",
+    "population": "3492",
+    "rate": "2606"
+  },
+  {
+    "geo_id": "649278",
+    "city": "Morgan Hill",
+    "cases": "3546",
+    "population": "43876",
+    "rate": "8082"
+  },
+  {
+    "geo_id": "649670",
+    "city": "Mountain View",
+    "cases": "2955",
+    "population": "80993",
+    "rate": "3648"
+  },
+  {
+    "geo_id": "0",
+    "city": "Other/Unknown",
+    "cases": "4219",
+    "population": "0"
+  },
+  {
+    "geo_id": "655282",
+    "city": "Palo Alto",
+    "cases": "1445",
+    "population": "67019",
+    "rate": "2156"
+  },
+  {
+    "geo_id": "668000",
+    "city": "San Jose",
+    "cases": "76044",
+    "population": "1026658",
+    "rate": "7407"
+  },
+  {
+    "geo_id": "669084",
+    "city": "Santa Clara",
+    "cases": "5345",
+    "population": "126209",
+    "rate": "4235"
+  },
+  {
+    "geo_id": "670280",
+    "city": "Saratoga",
+    "cases": "624",
+    "population": "30886",
+    "rate": "2020"
+  },
+  {
+    "geo_id": "677000",
+    "city": "Sunnyvale",
+    "cases": "5398",
+    "population": "152323",
+    "rate": "3544"
+  }
+]
