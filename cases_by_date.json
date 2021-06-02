@@ -2431,22 +2431,27 @@
   },
   {
     "date": "2021-05-27T00:00:00.000",
-    "total_cases": "118869",
-    "new_cases": "21"
+    "total_cases": "118870",
+    "new_cases": "22"
   },
   {
     "date": "2021-05-28T00:00:00.000",
-    "total_cases": "118884",
+    "total_cases": "118885",
     "new_cases": "15"
   },
   {
     "date": "2021-05-29T00:00:00.000",
-    "total_cases": "118892",
-    "new_cases": "8"
+    "total_cases": "118896",
+    "new_cases": "11"
   },
   {
     "date": "2021-05-30T00:00:00.000",
-    "total_cases": "118894",
-    "new_cases": "2"
+    "total_cases": "118907",
+    "new_cases": "11"
+  },
+  {
+    "date": "2021-05-31T00:00:00.000",
+    "total_cases": "118914",
+    "new_cases": "7"
   }
 ]
