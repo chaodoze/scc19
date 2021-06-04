@@ -1076,78 +1076,78 @@
   },
   {
     "date": "2020-08-29T00:00:00.000",
-    "total_cases": "17821",
-    "new_cases": "140"
+    "total_cases": "17822",
+    "new_cases": "141"
   },
   {
     "date": "2020-08-30T00:00:00.000",
-    "total_cases": "17877",
+    "total_cases": "17878",
     "new_cases": "56"
   },
   {
     "date": "2020-08-31T00:00:00.000",
-    "total_cases": "18025",
+    "total_cases": "18026",
     "new_cases": "148"
   },
   {
     "date": "2020-09-01T00:00:00.000",
-    "total_cases": "18258",
+    "total_cases": "18259",
     "new_cases": "233"
   },
   {
     "date": "2020-09-02T00:00:00.000",
-    "total_cases": "18488",
+    "total_cases": "18489",
     "new_cases": "230"
   },
   {
     "date": "2020-09-03T00:00:00.000",
-    "total_cases": "18657",
+    "total_cases": "18658",
     "new_cases": "169"
   },
   {
     "date": "2020-09-04T00:00:00.000",
-    "total_cases": "18834",
+    "total_cases": "18835",
     "new_cases": "177"
   },
   {
     "date": "2020-09-05T00:00:00.000",
-    "total_cases": "18924",
+    "total_cases": "18925",
     "new_cases": "90"
   },
   {
     "date": "2020-09-06T00:00:00.000",
-    "total_cases": "18969",
+    "total_cases": "18970",
     "new_cases": "45"
   },
   {
     "date": "2020-09-07T00:00:00.000",
-    "total_cases": "19010",
+    "total_cases": "19011",
     "new_cases": "41"
   },
   {
     "date": "2020-09-08T00:00:00.000",
-    "total_cases": "19201",
+    "total_cases": "19202",
     "new_cases": "191"
   },
   {
     "date": "2020-09-09T00:00:00.000",
-    "total_cases": "19408",
+    "total_cases": "19409",
     "new_cases": "207"
   },
   {
     "date": "2020-09-10T00:00:00.000",
-    "total_cases": "19553",
+    "total_cases": "19554",
     "new_cases": "145"
   },
   {
     "date": "2020-09-11T00:00:00.000",
-    "total_cases": "19685",
+    "total_cases": "19686",
     "new_cases": "132"
   },
   {
     "date": "2020-09-12T00:00:00.000",
     "total_cases": "19770",
-    "new_cases": "85"
+    "new_cases": "84"
   },
   {
     "date": "2020-09-13T00:00:00.000",
@@ -2426,37 +2426,42 @@
   },
   {
     "date": "2021-05-26T00:00:00.000",
-    "total_cases": "118849",
-    "new_cases": "24"
+    "total_cases": "118850",
+    "new_cases": "25"
   },
   {
     "date": "2021-05-27T00:00:00.000",
-    "total_cases": "118883",
-    "new_cases": "34"
+    "total_cases": "118885",
+    "new_cases": "35"
   },
   {
     "date": "2021-05-28T00:00:00.000",
-    "total_cases": "118900",
-    "new_cases": "17"
+    "total_cases": "118908",
+    "new_cases": "23"
   },
   {
     "date": "2021-05-29T00:00:00.000",
-    "total_cases": "118914",
-    "new_cases": "14"
+    "total_cases": "118924",
+    "new_cases": "16"
   },
   {
     "date": "2021-05-30T00:00:00.000",
-    "total_cases": "118932",
-    "new_cases": "18"
+    "total_cases": "118949",
+    "new_cases": "25"
   },
   {
     "date": "2021-05-31T00:00:00.000",
-    "total_cases": "118939",
-    "new_cases": "7"
+    "total_cases": "118957",
+    "new_cases": "8"
   },
   {
     "date": "2021-06-01T00:00:00.000",
-    "total_cases": "118945",
-    "new_cases": "6"
+    "total_cases": "118978",
+    "new_cases": "21"
+  },
+  {
+    "date": "2021-06-02T00:00:00.000",
+    "total_cases": "118983",
+    "new_cases": "5"
   }
 ]
