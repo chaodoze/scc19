@@ -2636,22 +2636,27 @@
   },
   {
     "date": "2021-07-07T00:00:00.000",
-    "total_cases": "119725",
-    "new_cases": "84"
+    "total_cases": "119727",
+    "new_cases": "86"
   },
   {
     "date": "2021-07-08T00:00:00.000",
-    "total_cases": "119781",
-    "new_cases": "56"
+    "total_cases": "119809",
+    "new_cases": "82"
   },
   {
     "date": "2021-07-09T00:00:00.000",
-    "total_cases": "119828",
-    "new_cases": "47"
+    "total_cases": "119876",
+    "new_cases": "67"
   },
   {
     "date": "2021-07-10T00:00:00.000",
-    "total_cases": "119833",
-    "new_cases": "5"
+    "total_cases": "119908",
+    "new_cases": "32"
+  },
+  {
+    "date": "2021-07-11T00:00:00.000",
+    "total_cases": "119918",
+    "new_cases": "10"
   }
 ]
