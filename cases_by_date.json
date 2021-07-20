@@ -2226,108 +2226,108 @@
   },
   {
     "date": "2021-04-16T00:00:00.000",
-    "total_cases": "115966",
-    "new_cases": "115"
+    "total_cases": "115965",
+    "new_cases": "114"
   },
   {
     "date": "2021-04-17T00:00:00.000",
-    "total_cases": "116060",
+    "total_cases": "116059",
     "new_cases": "94"
   },
   {
     "date": "2021-04-18T00:00:00.000",
-    "total_cases": "116140",
+    "total_cases": "116139",
     "new_cases": "80"
   },
   {
     "date": "2021-04-19T00:00:00.000",
-    "total_cases": "116274",
+    "total_cases": "116273",
     "new_cases": "134"
   },
   {
     "date": "2021-04-20T00:00:00.000",
-    "total_cases": "116398",
+    "total_cases": "116397",
     "new_cases": "124"
   },
   {
     "date": "2021-04-21T00:00:00.000",
-    "total_cases": "116520",
+    "total_cases": "116519",
     "new_cases": "122"
   },
   {
     "date": "2021-04-22T00:00:00.000",
-    "total_cases": "116600",
+    "total_cases": "116599",
     "new_cases": "80"
   },
   {
     "date": "2021-04-23T00:00:00.000",
-    "total_cases": "116695",
+    "total_cases": "116694",
     "new_cases": "95"
   },
   {
     "date": "2021-04-24T00:00:00.000",
-    "total_cases": "116757",
+    "total_cases": "116756",
     "new_cases": "62"
   },
   {
     "date": "2021-04-25T00:00:00.000",
-    "total_cases": "116809",
+    "total_cases": "116808",
     "new_cases": "52"
   },
   {
     "date": "2021-04-26T00:00:00.000",
-    "total_cases": "116884",
+    "total_cases": "116883",
     "new_cases": "75"
   },
   {
     "date": "2021-04-27T00:00:00.000",
-    "total_cases": "116991",
+    "total_cases": "116990",
     "new_cases": "107"
   },
   {
     "date": "2021-04-28T00:00:00.000",
-    "total_cases": "117053",
+    "total_cases": "117052",
     "new_cases": "62"
   },
   {
     "date": "2021-04-29T00:00:00.000",
-    "total_cases": "117135",
+    "total_cases": "117134",
     "new_cases": "82"
   },
   {
     "date": "2021-04-30T00:00:00.000",
-    "total_cases": "117199",
+    "total_cases": "117198",
     "new_cases": "64"
   },
   {
     "date": "2021-05-01T00:00:00.000",
-    "total_cases": "117247",
+    "total_cases": "117246",
     "new_cases": "48"
   },
   {
     "date": "2021-05-02T00:00:00.000",
-    "total_cases": "117295",
+    "total_cases": "117294",
     "new_cases": "48"
   },
   {
     "date": "2021-05-03T00:00:00.000",
-    "total_cases": "117366",
+    "total_cases": "117365",
     "new_cases": "71"
   },
   {
     "date": "2021-05-04T00:00:00.000",
-    "total_cases": "117451",
+    "total_cases": "117450",
     "new_cases": "85"
   },
   {
     "date": "2021-05-05T00:00:00.000",
-    "total_cases": "117521",
+    "total_cases": "117520",
     "new_cases": "70"
   },
   {
     "date": "2021-05-06T00:00:00.000",
     "total_cases": "117566",
-    "new_cases": "45"
+    "new_cases": "46"
   },
   {
     "date": "2021-05-07T00:00:00.000",
@@ -2641,13 +2641,13 @@
   },
   {
     "date": "2021-07-08T00:00:00.000",
-    "total_cases": "119807",
-    "new_cases": "91"
+    "total_cases": "119806",
+    "new_cases": "90"
   },
   {
     "date": "2021-07-09T00:00:00.000",
     "total_cases": "119907",
-    "new_cases": "100"
+    "new_cases": "101"
   },
   {
     "date": "2021-07-10T00:00:00.000",
@@ -2656,27 +2656,42 @@
   },
   {
     "date": "2021-07-11T00:00:00.000",
-    "total_cases": "120078",
-    "new_cases": "64"
+    "total_cases": "120079",
+    "new_cases": "65"
   },
   {
     "date": "2021-07-12T00:00:00.000",
-    "total_cases": "120201",
-    "new_cases": "123"
+    "total_cases": "120207",
+    "new_cases": "128"
   },
   {
     "date": "2021-07-13T00:00:00.000",
-    "total_cases": "120320",
-    "new_cases": "119"
+    "total_cases": "120351",
+    "new_cases": "144"
   },
   {
     "date": "2021-07-14T00:00:00.000",
-    "total_cases": "120411",
-    "new_cases": "91"
+    "total_cases": "120511",
+    "new_cases": "160"
   },
   {
     "date": "2021-07-15T00:00:00.000",
-    "total_cases": "120427",
-    "new_cases": "16"
+    "total_cases": "120650",
+    "new_cases": "139"
+  },
+  {
+    "date": "2021-07-16T00:00:00.000",
+    "total_cases": "120741",
+    "new_cases": "91"
+  },
+  {
+    "date": "2021-07-17T00:00:00.000",
+    "total_cases": "120812",
+    "new_cases": "71"
+  },
+  {
+    "date": "2021-07-18T00:00:00.000",
+    "total_cases": "120830",
+    "new_cases": "18"
   }
 ]
