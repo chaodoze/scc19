@@ -2711,43 +2711,43 @@
   },
   {
     "date": "2021-07-22T00:00:00.000",
-    "total_cases": "121976",
-    "new_cases": "221"
+    "total_cases": "121977",
+    "new_cases": "222"
   },
   {
     "date": "2021-07-23T00:00:00.000",
-    "total_cases": "122216",
+    "total_cases": "122217",
     "new_cases": "240"
   },
   {
     "date": "2021-07-24T00:00:00.000",
-    "total_cases": "122390",
+    "total_cases": "122391",
     "new_cases": "174"
   },
   {
     "date": "2021-07-25T00:00:00.000",
-    "total_cases": "122548",
+    "total_cases": "122549",
     "new_cases": "158"
   },
   {
     "date": "2021-07-26T00:00:00.000",
-    "total_cases": "122853",
+    "total_cases": "122854",
     "new_cases": "305"
   },
   {
     "date": "2021-07-27T00:00:00.000",
-    "total_cases": "123187",
+    "total_cases": "123188",
     "new_cases": "334"
   },
   {
     "date": "2021-07-28T00:00:00.000",
-    "total_cases": "123520",
+    "total_cases": "123521",
     "new_cases": "333"
   },
   {
     "date": "2021-07-29T00:00:00.000",
     "total_cases": "123791",
-    "new_cases": "271"
+    "new_cases": "270"
   },
   {
     "date": "2021-07-30T00:00:00.000",
@@ -2756,27 +2756,32 @@
   },
   {
     "date": "2021-07-31T00:00:00.000",
-    "total_cases": "124169",
-    "new_cases": "175"
+    "total_cases": "124170",
+    "new_cases": "176"
   },
   {
     "date": "2021-08-01T00:00:00.000",
-    "total_cases": "124356",
-    "new_cases": "187"
+    "total_cases": "124359",
+    "new_cases": "189"
   },
   {
     "date": "2021-08-02T00:00:00.000",
-    "total_cases": "124574",
-    "new_cases": "218"
+    "total_cases": "124599",
+    "new_cases": "240"
   },
   {
     "date": "2021-08-03T00:00:00.000",
-    "total_cases": "124741",
-    "new_cases": "167"
+    "total_cases": "124926",
+    "new_cases": "327"
   },
   {
     "date": "2021-08-04T00:00:00.000",
-    "total_cases": "124775",
-    "new_cases": "34"
+    "total_cases": "125016",
+    "new_cases": "90"
+  },
+  {
+    "date": "2021-08-05T00:00:00.000",
+    "total_cases": "125056",
+    "new_cases": "40"
   }
 ]
