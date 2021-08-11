@@ -778,26 +778,26 @@
   {
     "collection_date": "2020-04-29T00:00:00.000",
     "post_rslt": "62",
-    "neg_rslt": "2232",
-    "total": "2294",
-    "rate_pst_7d": "0.03362",
-    "test_rate_7d": "66.94211"
+    "neg_rslt": "2231",
+    "total": "2293",
+    "rate_pst_7d": "0.03363",
+    "test_rate_7d": "66.93485"
   },
   {
     "collection_date": "2020-04-30T00:00:00.000",
     "post_rslt": "31",
     "neg_rslt": "1368",
     "total": "1399",
-    "rate_pst_7d": "0.03356",
-    "test_rate_7d": "68.14009"
+    "rate_pst_7d": "0.03357",
+    "test_rate_7d": "68.13283"
   },
   {
     "collection_date": "2020-05-01T00:00:00.000",
     "post_rslt": "40",
     "neg_rslt": "1892",
     "total": "1932",
-    "rate_pst_7d": "0.03152",
-    "test_rate_7d": "71.16774"
+    "rate_pst_7d": "0.03153",
+    "test_rate_7d": "71.16048"
   },
   {
     "collection_date": "2020-05-02T00:00:00.000",
@@ -805,7 +805,7 @@
     "neg_rslt": "679",
     "total": "701",
     "rate_pst_7d": "0.02974",
-    "test_rate_7d": "70.79745"
+    "test_rate_7d": "70.79019"
   },
   {
     "collection_date": "2020-05-03T00:00:00.000",
@@ -813,7 +813,7 @@
     "neg_rslt": "807",
     "total": "821",
     "rate_pst_7d": "0.02821",
-    "test_rate_7d": "72.83766"
+    "test_rate_7d": "72.8304"
   },
   {
     "collection_date": "2020-05-04T00:00:00.000",
@@ -821,7 +821,7 @@
     "neg_rslt": "1708",
     "total": "1762",
     "rate_pst_7d": "0.02732",
-    "test_rate_7d": "75.74913"
+    "test_rate_7d": "75.74187"
   },
   {
     "collection_date": "2020-05-05T00:00:00.000",
@@ -829,7 +829,7 @@
     "neg_rslt": "1551",
     "total": "1589",
     "rate_pst_7d": "0.02486",
-    "test_rate_7d": "76.22107"
+    "test_rate_7d": "76.21381"
   },
   {
     "collection_date": "2020-05-06T00:00:00.000",
@@ -1210,10 +1210,10 @@
   {
     "collection_date": "2020-06-22T00:00:00.000",
     "post_rslt": "127",
-    "neg_rslt": "4354",
-    "total": "4481",
+    "neg_rslt": "4353",
+    "total": "4480",
     "rate_pst_7d": "0.02185",
-    "test_rate_7d": "228.28565"
+    "test_rate_7d": "228.27839"
   },
   {
     "collection_date": "2020-06-23T00:00:00.000",
@@ -1221,7 +1221,7 @@
     "neg_rslt": "6734",
     "total": "6945",
     "rate_pst_7d": "0.02438",
-    "test_rate_7d": "235.54619"
+    "test_rate_7d": "235.53893"
   },
   {
     "collection_date": "2020-06-24T00:00:00.000",
@@ -1229,15 +1229,15 @@
     "neg_rslt": "6408",
     "total": "6588",
     "rate_pst_7d": "0.02615",
-    "test_rate_7d": "240.42526"
+    "test_rate_7d": "240.418"
   },
   {
     "collection_date": "2020-06-25T00:00:00.000",
     "post_rslt": "153",
     "neg_rslt": "7792",
     "total": "7945",
-    "rate_pst_7d": "0.0259",
-    "test_rate_7d": "253.09489"
+    "rate_pst_7d": "0.02591",
+    "test_rate_7d": "253.08763"
   },
   {
     "collection_date": "2020-06-26T00:00:00.000",
@@ -1245,7 +1245,7 @@
     "neg_rslt": "7627",
     "total": "7785",
     "rate_pst_7d": "0.02514",
-    "test_rate_7d": "270.0555"
+    "test_rate_7d": "270.04824"
   },
   {
     "collection_date": "2020-06-27T00:00:00.000",
@@ -1253,7 +1253,7 @@
     "neg_rslt": "3480",
     "total": "3609",
     "rate_pst_7d": "0.0261",
-    "test_rate_7d": "278.78266"
+    "test_rate_7d": "278.7754"
   },
   {
     "collection_date": "2020-06-28T00:00:00.000",
@@ -1261,15 +1261,15 @@
     "neg_rslt": "1583",
     "total": "1660",
     "rate_pst_7d": "0.02653",
-    "test_rate_7d": "283.25514"
+    "test_rate_7d": "283.24788"
   },
   {
     "collection_date": "2020-06-29T00:00:00.000",
     "post_rslt": "170",
-    "neg_rslt": "5847",
-    "total": "6017",
+    "neg_rslt": "5846",
+    "total": "6016",
     "rate_pst_7d": "0.02659",
-    "test_rate_7d": "294.40732"
+    "test_rate_7d": "294.40006"
   },
   {
     "collection_date": "2020-06-30T00:00:00.000",
@@ -1277,7 +1277,7 @@
     "neg_rslt": "7945",
     "total": "8170",
     "rate_pst_7d": "0.02614",
-    "test_rate_7d": "303.30147"
+    "test_rate_7d": "303.29421"
   },
   {
     "collection_date": "2020-07-01T00:00:00.000",
@@ -1285,7 +1285,7 @@
     "neg_rslt": "7884",
     "total": "8100",
     "rate_pst_7d": "0.02606",
-    "test_rate_7d": "314.2794"
+    "test_rate_7d": "314.27214"
   },
   {
     "collection_date": "2020-07-02T00:00:00.000",
@@ -1293,7 +1293,7 @@
     "neg_rslt": "7362",
     "total": "7577",
     "rate_pst_7d": "0.02773",
-    "test_rate_7d": "311.60752"
+    "test_rate_7d": "311.60026"
   },
   {
     "collection_date": "2020-07-03T00:00:00.000",
@@ -1301,7 +1301,7 @@
     "neg_rslt": "3035",
     "total": "3137",
     "rate_pst_7d": "0.02963",
-    "test_rate_7d": "277.86057"
+    "test_rate_7d": "277.85331"
   },
   {
     "collection_date": "2020-07-04T00:00:00.000",
@@ -1309,7 +1309,7 @@
     "neg_rslt": "1151",
     "total": "1206",
     "rate_pst_7d": "0.02955",
-    "test_rate_7d": "260.41351"
+    "test_rate_7d": "260.40625"
   },
   {
     "collection_date": "2020-07-05T00:00:00.000",
@@ -1317,7 +1317,7 @@
     "neg_rslt": "1868",
     "total": "1980",
     "rate_pst_7d": "0.03026",
-    "test_rate_7d": "262.73688"
+    "test_rate_7d": "262.72962"
   },
   {
     "collection_date": "2020-07-06T00:00:00.000",
@@ -1410,10 +1410,10 @@
   {
     "collection_date": "2020-07-17T00:00:00.000",
     "post_rslt": "350",
-    "neg_rslt": "7829",
-    "total": "8179",
+    "neg_rslt": "7828",
+    "total": "8178",
     "rate_pst_7d": "0.04295",
-    "test_rate_7d": "358.06041"
+    "test_rate_7d": "358.05315"
   },
   {
     "collection_date": "2020-07-18T00:00:00.000",
@@ -1421,7 +1421,7 @@
     "neg_rslt": "3604",
     "total": "3800",
     "rate_pst_7d": "0.04273",
-    "test_rate_7d": "357.6756"
+    "test_rate_7d": "357.66834"
   },
   {
     "collection_date": "2020-07-19T00:00:00.000",
@@ -1429,7 +1429,7 @@
     "neg_rslt": "1658",
     "total": "1763",
     "rate_pst_7d": "0.04264",
-    "test_rate_7d": "353.34106"
+    "test_rate_7d": "353.3338"
   },
   {
     "collection_date": "2020-07-20T00:00:00.000",
@@ -1437,7 +1437,7 @@
     "neg_rslt": "5868",
     "total": "6111",
     "rate_pst_7d": "0.0436",
-    "test_rate_7d": "344.71555"
+    "test_rate_7d": "344.70829"
   },
   {
     "collection_date": "2020-07-21T00:00:00.000",
@@ -1445,7 +1445,7 @@
     "neg_rslt": "7270",
     "total": "7625",
     "rate_pst_7d": "0.04457",
-    "test_rate_7d": "331.98058"
+    "test_rate_7d": "331.97331"
   },
   {
     "collection_date": "2020-07-22T00:00:00.000",
@@ -1453,7 +1453,7 @@
     "neg_rslt": "7771",
     "total": "8111",
     "rate_pst_7d": "0.04456",
-    "test_rate_7d": "318.85353"
+    "test_rate_7d": "318.84627"
   },
   {
     "collection_date": "2020-07-23T00:00:00.000",
@@ -1461,7 +1461,7 @@
     "neg_rslt": "6447",
     "total": "6766",
     "rate_pst_7d": "0.04505",
-    "test_rate_7d": "307.51984"
+    "test_rate_7d": "307.51258"
   },
   {
     "collection_date": "2020-07-24T00:00:00.000",
@@ -1522,18 +1522,18 @@
   {
     "collection_date": "2020-07-31T00:00:00.000",
     "post_rslt": "297",
-    "neg_rslt": "7454",
-    "total": "7751",
+    "neg_rslt": "7453",
+    "total": "7750",
     "rate_pst_7d": "0.03936",
-    "test_rate_7d": "316.5592"
+    "test_rate_7d": "316.55194"
   },
   {
     "collection_date": "2020-08-01T00:00:00.000",
     "post_rslt": "205",
     "neg_rslt": "3792",
     "total": "3997",
-    "rate_pst_7d": "0.03928",
-    "test_rate_7d": "325.2791"
+    "rate_pst_7d": "0.03929",
+    "test_rate_7d": "325.27184"
   },
   {
     "collection_date": "2020-08-02T00:00:00.000",
@@ -1541,7 +1541,7 @@
     "neg_rslt": "2313",
     "total": "2416",
     "rate_pst_7d": "0.03899",
-    "test_rate_7d": "327.34836"
+    "test_rate_7d": "327.3411"
   },
   {
     "collection_date": "2020-08-03T00:00:00.000",
@@ -1549,7 +1549,7 @@
     "neg_rslt": "6199",
     "total": "6406",
     "rate_pst_7d": "0.03848",
-    "test_rate_7d": "329.45391"
+    "test_rate_7d": "329.44665"
   },
   {
     "collection_date": "2020-08-04T00:00:00.000",
@@ -1557,7 +1557,7 @@
     "neg_rslt": "7640",
     "total": "7974",
     "rate_pst_7d": "0.03929",
-    "test_rate_7d": "322.65079"
+    "test_rate_7d": "322.64353"
   },
   {
     "collection_date": "2020-08-05T00:00:00.000",
@@ -1565,15 +1565,15 @@
     "neg_rslt": "7071",
     "total": "7448",
     "rate_pst_7d": "0.04119",
-    "test_rate_7d": "318.17104"
+    "test_rate_7d": "318.16378"
   },
   {
     "collection_date": "2020-08-06T00:00:00.000",
     "post_rslt": "273",
     "neg_rslt": "7007",
     "total": "7280",
-    "rate_pst_7d": "0.0415",
-    "test_rate_7d": "314.17775"
+    "rate_pst_7d": "0.04151",
+    "test_rate_7d": "314.17049"
   },
   {
     "collection_date": "2020-08-07T00:00:00.000",
@@ -1721,59 +1721,59 @@
   },
   {
     "collection_date": "2020-08-25T00:00:00.000",
-    "post_rslt": "332",
+    "post_rslt": "331",
     "neg_rslt": "7765",
-    "total": "8097",
-    "rate_pst_7d": "0.03238",
-    "test_rate_7d": "299.16297"
+    "total": "8096",
+    "rate_pst_7d": "0.03235",
+    "test_rate_7d": "299.15571"
   },
   {
     "collection_date": "2020-08-26T00:00:00.000",
     "post_rslt": "268",
     "neg_rslt": "7623",
     "total": "7891",
-    "rate_pst_7d": "0.03337",
-    "test_rate_7d": "303.76615"
+    "rate_pst_7d": "0.03334",
+    "test_rate_7d": "303.75889"
   },
   {
     "collection_date": "2020-08-27T00:00:00.000",
     "post_rslt": "229",
     "neg_rslt": "7244",
     "total": "7473",
-    "rate_pst_7d": "0.03378",
-    "test_rate_7d": "309.53827"
+    "rate_pst_7d": "0.03375",
+    "test_rate_7d": "309.53101"
   },
   {
     "collection_date": "2020-08-28T00:00:00.000",
     "post_rslt": "224",
     "neg_rslt": "7336",
     "total": "7560",
-    "rate_pst_7d": "0.03397",
-    "test_rate_7d": "313.51704"
+    "rate_pst_7d": "0.03395",
+    "test_rate_7d": "313.50978"
   },
   {
     "collection_date": "2020-08-29T00:00:00.000",
     "post_rslt": "159",
     "neg_rslt": "3631",
     "total": "3790",
-    "rate_pst_7d": "0.03397",
-    "test_rate_7d": "313.50978"
+    "rate_pst_7d": "0.03395",
+    "test_rate_7d": "313.50252"
   },
   {
     "collection_date": "2020-08-30T00:00:00.000",
     "post_rslt": "62",
     "neg_rslt": "1894",
     "total": "1956",
-    "rate_pst_7d": "0.03346",
-    "test_rate_7d": "314.84572"
+    "rate_pst_7d": "0.03344",
+    "test_rate_7d": "314.83846"
   },
   {
     "collection_date": "2020-08-31T00:00:00.000",
     "post_rslt": "174",
     "neg_rslt": "6478",
     "total": "6652",
-    "rate_pst_7d": "0.03335",
-    "test_rate_7d": "315.24505"
+    "rate_pst_7d": "0.03333",
+    "test_rate_7d": "315.23779"
   },
   {
     "collection_date": "2020-09-01T00:00:00.000",
@@ -2074,10 +2074,10 @@
   {
     "collection_date": "2020-10-08T00:00:00.000",
     "post_rslt": "146",
-    "neg_rslt": "9525",
-    "total": "9671",
+    "neg_rslt": "9524",
+    "total": "9670",
     "rate_pst_7d": "0.01462",
-    "test_rate_7d": "415.76712"
+    "test_rate_7d": "415.75986"
   },
   {
     "collection_date": "2020-10-09T00:00:00.000",
@@ -2085,7 +2085,7 @@
     "neg_rslt": "8945",
     "total": "9080",
     "rate_pst_7d": "0.01446",
-    "test_rate_7d": "418.40269"
+    "test_rate_7d": "418.39543"
   },
   {
     "collection_date": "2020-10-10T00:00:00.000",
@@ -2093,7 +2093,7 @@
     "neg_rslt": "4304",
     "total": "4407",
     "rate_pst_7d": "0.01487",
-    "test_rate_7d": "418.43173"
+    "test_rate_7d": "418.42447"
   },
   {
     "collection_date": "2020-10-11T00:00:00.000",
@@ -2101,7 +2101,7 @@
     "neg_rslt": "2627",
     "total": "2679",
     "rate_pst_7d": "0.0148",
-    "test_rate_7d": "419.08518"
+    "test_rate_7d": "419.07792"
   },
   {
     "collection_date": "2020-10-12T00:00:00.000",
@@ -2109,7 +2109,7 @@
     "neg_rslt": "8374",
     "total": "8529",
     "rate_pst_7d": "0.01591",
-    "test_rate_7d": "413.33484"
+    "test_rate_7d": "413.32758"
   },
   {
     "collection_date": "2020-10-13T00:00:00.000",
@@ -2117,7 +2117,7 @@
     "neg_rslt": "12008",
     "total": "12182",
     "rate_pst_7d": "0.01593",
-    "test_rate_7d": "416.93606"
+    "test_rate_7d": "416.9288"
   },
   {
     "collection_date": "2020-10-14T00:00:00.000",
@@ -2125,15 +2125,15 @@
     "neg_rslt": "11641",
     "total": "11806",
     "rate_pst_7d": "0.01594",
-    "test_rate_7d": "423.6811"
+    "test_rate_7d": "423.67384"
   },
   {
     "collection_date": "2020-10-15T00:00:00.000",
     "post_rslt": "185",
-    "neg_rslt": "11092",
-    "total": "11277",
+    "neg_rslt": "11091",
+    "total": "11276",
     "rate_pst_7d": "0.01616",
-    "test_rate_7d": "435.34151"
+    "test_rate_7d": "435.33425"
   },
   {
     "collection_date": "2020-10-16T00:00:00.000",
@@ -2141,7 +2141,7 @@
     "neg_rslt": "10260",
     "total": "10392",
     "rate_pst_7d": "0.01577",
-    "test_rate_7d": "444.86733"
+    "test_rate_7d": "444.86007"
   },
   {
     "collection_date": "2020-10-17T00:00:00.000",
@@ -2149,7 +2149,7 @@
     "neg_rslt": "4868",
     "total": "4955",
     "rate_pst_7d": "0.01537",
-    "test_rate_7d": "448.8461"
+    "test_rate_7d": "448.83884"
   },
   {
     "collection_date": "2020-10-18T00:00:00.000",
@@ -2157,7 +2157,7 @@
     "neg_rslt": "2729",
     "total": "2780",
     "rate_pst_7d": "0.01533",
-    "test_rate_7d": "449.57942"
+    "test_rate_7d": "449.57215"
   },
   {
     "collection_date": "2020-10-19T00:00:00.000",
@@ -2165,7 +2165,7 @@
     "neg_rslt": "10930",
     "total": "11085",
     "rate_pst_7d": "0.01472",
-    "test_rate_7d": "468.13734"
+    "test_rate_7d": "468.13008"
   },
   {
     "collection_date": "2020-10-20T00:00:00.000",
@@ -2173,7 +2173,7 @@
     "neg_rslt": "12772",
     "total": "13007",
     "rate_pst_7d": "0.01547",
-    "test_rate_7d": "474.12727"
+    "test_rate_7d": "474.12001"
   },
   {
     "collection_date": "2020-10-21T00:00:00.000",
@@ -2181,15 +2181,15 @@
     "neg_rslt": "11566",
     "total": "11734",
     "rate_pst_7d": "0.01553",
-    "test_rate_7d": "473.60452"
+    "test_rate_7d": "473.59726"
   },
   {
     "collection_date": "2020-10-22T00:00:00.000",
     "post_rslt": "151",
-    "neg_rslt": "10842",
-    "total": "10993",
+    "neg_rslt": "10841",
+    "total": "10992",
     "rate_pst_7d": "0.01507",
-    "test_rate_7d": "471.54253"
+    "test_rate_7d": "471.53526"
   },
   {
     "collection_date": "2020-10-23T00:00:00.000",
@@ -2197,7 +2197,7 @@
     "neg_rslt": "10520",
     "total": "10691",
     "rate_pst_7d": "0.0156",
-    "test_rate_7d": "473.71342"
+    "test_rate_7d": "473.70616"
   },
   {
     "collection_date": "2020-10-24T00:00:00.000",
@@ -2205,7 +2205,7 @@
     "neg_rslt": "4677",
     "total": "4756",
     "rate_pst_7d": "0.01553",
-    "test_rate_7d": "472.26858"
+    "test_rate_7d": "472.26132"
   },
   {
     "collection_date": "2020-10-25T00:00:00.000",
@@ -2213,7 +2213,7 @@
     "neg_rslt": "2505",
     "total": "2571",
     "rate_pst_7d": "0.01581",
-    "test_rate_7d": "470.75113"
+    "test_rate_7d": "470.74387"
   },
   {
     "collection_date": "2020-10-26T00:00:00.000",
@@ -2221,7 +2221,7 @@
     "neg_rslt": "11734",
     "total": "11914",
     "rate_pst_7d": "0.01599",
-    "test_rate_7d": "476.77011"
+    "test_rate_7d": "476.76285"
   },
   {
     "collection_date": "2020-10-27T00:00:00.000",
@@ -2229,7 +2229,7 @@
     "neg_rslt": "13446",
     "total": "13687",
     "rate_pst_7d": "0.01592",
-    "test_rate_7d": "481.70727"
+    "test_rate_7d": "481.70001"
   },
   {
     "collection_date": "2020-10-28T00:00:00.000",
@@ -2237,15 +2237,15 @@
     "neg_rslt": "13158",
     "total": "13343",
     "rate_pst_7d": "0.01579",
-    "test_rate_7d": "493.38947"
+    "test_rate_7d": "493.38221"
   },
   {
     "collection_date": "2020-10-29T00:00:00.000",
     "post_rslt": "166",
-    "neg_rslt": "12036",
-    "total": "12202",
+    "neg_rslt": "12035",
+    "total": "12201",
     "rate_pst_7d": "0.01573",
-    "test_rate_7d": "502.16745"
+    "test_rate_7d": "502.16019"
   },
   {
     "collection_date": "2020-10-30T00:00:00.000",
@@ -2253,7 +2253,7 @@
     "neg_rslt": "10218",
     "total": "10382",
     "rate_pst_7d": "0.0157",
-    "test_rate_7d": "499.92395"
+    "test_rate_7d": "499.91669"
   },
   {
     "collection_date": "2020-10-31T00:00:00.000",
@@ -2261,7 +2261,7 @@
     "neg_rslt": "4229",
     "total": "4343",
     "rate_pst_7d": "0.01631",
-    "test_rate_7d": "496.92535"
+    "test_rate_7d": "496.91809"
   },
   {
     "collection_date": "2020-11-01T00:00:00.000",
@@ -2269,7 +2269,7 @@
     "neg_rslt": "2386",
     "total": "2450",
     "rate_pst_7d": "0.01631",
-    "test_rate_7d": "496.04682"
+    "test_rate_7d": "496.03956"
   },
   {
     "collection_date": "2020-11-02T00:00:00.000",
@@ -2277,7 +2277,7 @@
     "neg_rslt": "10923",
     "total": "11169",
     "rate_pst_7d": "0.01746",
-    "test_rate_7d": "490.63773"
+    "test_rate_7d": "490.63046"
   },
   {
     "collection_date": "2020-11-03T00:00:00.000",
@@ -2285,15 +2285,15 @@
     "neg_rslt": "12925",
     "total": "13227",
     "rate_pst_7d": "0.01849",
-    "test_rate_7d": "487.29788"
+    "test_rate_7d": "487.29062"
   },
   {
     "collection_date": "2020-11-04T00:00:00.000",
     "post_rslt": "332",
-    "neg_rslt": "13132",
-    "total": "13464",
+    "neg_rslt": "13131",
+    "total": "13463",
     "rate_pst_7d": "0.02064",
-    "test_rate_7d": "488.1764"
+    "test_rate_7d": "488.16188"
   },
   {
     "collection_date": "2020-11-05T00:00:00.000",
@@ -2301,7 +2301,7 @@
     "neg_rslt": "11644",
     "total": "11938",
     "rate_pst_7d": "0.02264",
-    "test_rate_7d": "486.25962"
+    "test_rate_7d": "486.25236"
   },
   {
     "collection_date": "2020-11-06T00:00:00.000",
@@ -2309,7 +2309,7 @@
     "neg_rslt": "11512",
     "total": "11798",
     "rate_pst_7d": "0.02395",
-    "test_rate_7d": "496.54054"
+    "test_rate_7d": "496.53328"
   },
   {
     "collection_date": "2020-11-07T00:00:00.000",
@@ -2317,7 +2317,7 @@
     "neg_rslt": "4881",
     "total": "5115",
     "rate_pst_7d": "0.02542",
-    "test_rate_7d": "502.14567"
+    "test_rate_7d": "502.13841"
   },
   {
     "collection_date": "2020-11-08T00:00:00.000",
@@ -2325,7 +2325,7 @@
     "neg_rslt": "2952",
     "total": "3055",
     "rate_pst_7d": "0.02576",
-    "test_rate_7d": "506.53829"
+    "test_rate_7d": "506.53103"
   },
   {
     "collection_date": "2020-11-09T00:00:00.000",
@@ -2333,15 +2333,15 @@
     "neg_rslt": "12052",
     "total": "12388",
     "rate_pst_7d": "0.02658",
-    "test_rate_7d": "515.38888"
+    "test_rate_7d": "515.38162"
   },
   {
     "collection_date": "2020-11-10T00:00:00.000",
     "post_rslt": "497",
-    "neg_rslt": "14943",
-    "total": "15440",
+    "neg_rslt": "14942",
+    "total": "15439",
     "rate_pst_7d": "0.02844",
-    "test_rate_7d": "531.45644"
+    "test_rate_7d": "531.44192"
   },
   {
     "collection_date": "2020-11-11T00:00:00.000",
@@ -2349,7 +2349,7 @@
     "neg_rslt": "12006",
     "total": "12395",
     "rate_pst_7d": "0.02966",
-    "test_rate_7d": "523.69493"
+    "test_rate_7d": "523.68767"
   },
   {
     "collection_date": "2020-11-12T00:00:00.000",
@@ -2357,15 +2357,15 @@
     "neg_rslt": "13047",
     "total": "13544",
     "rate_pst_7d": "0.03176",
-    "test_rate_7d": "535.35534"
+    "test_rate_7d": "535.34808"
   },
   {
     "collection_date": "2020-11-13T00:00:00.000",
     "post_rslt": "447",
-    "neg_rslt": "13308",
-    "total": "13755",
+    "neg_rslt": "13307",
+    "total": "13754",
     "rate_pst_7d": "0.03307",
-    "test_rate_7d": "549.5642"
+    "test_rate_7d": "549.54968"
   },
   {
     "collection_date": "2020-11-14T00:00:00.000",
@@ -2373,7 +2373,7 @@
     "neg_rslt": "6675",
     "total": "6992",
     "rate_pst_7d": "0.03334",
-    "test_rate_7d": "563.19222"
+    "test_rate_7d": "563.1777"
   },
   {
     "collection_date": "2020-11-15T00:00:00.000",
@@ -2381,7 +2381,7 @@
     "neg_rslt": "3572",
     "total": "3709",
     "rate_pst_7d": "0.03349",
-    "test_rate_7d": "567.94061"
+    "test_rate_7d": "567.92609"
   },
   {
     "collection_date": "2020-11-16T00:00:00.000",
@@ -2389,15 +2389,15 @@
     "neg_rslt": "13253",
     "total": "13617",
     "rate_pst_7d": "0.03333",
-    "test_rate_7d": "576.86381"
+    "test_rate_7d": "576.84928"
   },
   {
     "collection_date": "2020-11-17T00:00:00.000",
     "post_rslt": "632",
-    "neg_rslt": "17676",
-    "total": "18308",
+    "neg_rslt": "17675",
+    "total": "18307",
     "rate_pst_7d": "0.03381",
-    "test_rate_7d": "597.68701"
+    "test_rate_7d": "597.67249"
   },
   {
     "collection_date": "2020-11-18T00:00:00.000",
@@ -2405,7 +2405,7 @@
     "neg_rslt": "16906",
     "total": "17557",
     "rate_pst_7d": "0.03481",
-    "test_rate_7d": "635.16588"
+    "test_rate_7d": "635.15136"
   },
   {
     "collection_date": "2020-11-19T00:00:00.000",
@@ -2413,15 +2413,15 @@
     "neg_rslt": "17787",
     "total": "18353",
     "rate_pst_7d": "0.03374",
-    "test_rate_7d": "670.08178"
+    "test_rate_7d": "670.06726"
   },
   {
     "collection_date": "2020-11-20T00:00:00.000",
     "post_rslt": "608",
-    "neg_rslt": "17949",
-    "total": "18557",
+    "neg_rslt": "17948",
+    "total": "18556",
     "rate_pst_7d": "0.03373",
-    "test_rate_7d": "704.94685"
+    "test_rate_7d": "704.93233"
   },
   {
     "collection_date": "2020-11-21T00:00:00.000",
@@ -2429,7 +2429,7 @@
     "neg_rslt": "8421",
     "total": "8810",
     "rate_pst_7d": "0.03384",
-    "test_rate_7d": "718.1465"
+    "test_rate_7d": "718.13198"
   },
   {
     "collection_date": "2020-11-22T00:00:00.000",
@@ -2437,15 +2437,15 @@
     "neg_rslt": "5429",
     "total": "5723",
     "rate_pst_7d": "0.03472",
-    "test_rate_7d": "732.76921"
+    "test_rate_7d": "732.75469"
   },
   {
     "collection_date": "2020-11-23T00:00:00.000",
     "post_rslt": "691",
-    "neg_rslt": "18534",
-    "total": "19225",
+    "neg_rslt": "18533",
+    "total": "19224",
     "rate_pst_7d": "0.03596",
-    "test_rate_7d": "773.48628"
+    "test_rate_7d": "773.4645"
   },
   {
     "collection_date": "2020-11-24T00:00:00.000",
@@ -2453,7 +2453,7 @@
     "neg_rslt": "16377",
     "total": "17140",
     "rate_pst_7d": "0.0376",
-    "test_rate_7d": "765.00598"
+    "test_rate_7d": "764.99146"
   },
   {
     "collection_date": "2020-11-25T00:00:00.000",
@@ -2461,7 +2461,7 @@
     "neg_rslt": "15818",
     "total": "16771",
     "rate_pst_7d": "0.04077",
-    "test_rate_7d": "759.2992"
+    "test_rate_7d": "759.28468"
   },
   {
     "collection_date": "2020-11-26T00:00:00.000",
@@ -2469,15 +2469,15 @@
     "neg_rslt": "2141",
     "total": "2323",
     "rate_pst_7d": "0.04382",
-    "test_rate_7d": "642.91287"
+    "test_rate_7d": "642.89835"
   },
   {
     "collection_date": "2020-11-27T00:00:00.000",
     "post_rslt": "631",
-    "neg_rslt": "9746",
-    "total": "10377",
+    "neg_rslt": "9745",
+    "total": "10376",
     "rate_pst_7d": "0.04856",
-    "test_rate_7d": "583.52171"
+    "test_rate_7d": "583.50719"
   },
   {
     "collection_date": "2020-11-28T00:00:00.000",
@@ -2485,7 +2485,7 @@
     "neg_rslt": "7713",
     "total": "8335",
     "rate_pst_7d": "0.05177",
-    "test_rate_7d": "580.07296"
+    "test_rate_7d": "580.05844"
   },
   {
     "collection_date": "2020-11-29T00:00:00.000",
@@ -2493,15 +2493,15 @@
     "neg_rslt": "6769",
     "total": "7344",
     "rate_pst_7d": "0.05419",
-    "test_rate_7d": "591.84228"
+    "test_rate_7d": "591.82776"
   },
   {
     "collection_date": "2020-11-30T00:00:00.000",
     "post_rslt": "1067",
-    "neg_rslt": "17248",
-    "total": "18315",
+    "neg_rslt": "17247",
+    "total": "18314",
     "rate_pst_7d": "0.05946",
-    "test_rate_7d": "585.2352"
+    "test_rate_7d": "585.22068"
   },
   {
     "collection_date": "2020-12-01T00:00:00.000",
@@ -2509,23 +2509,23 @@
     "neg_rslt": "18787",
     "total": "20207",
     "rate_pst_7d": "0.06514",
-    "test_rate_7d": "607.50325"
+    "test_rate_7d": "607.48873"
   },
   {
     "collection_date": "2020-12-02T00:00:00.000",
     "post_rslt": "1448",
-    "neg_rslt": "19104",
-    "total": "20552",
+    "neg_rslt": "19103",
+    "total": "20551",
     "rate_pst_7d": "0.06798",
-    "test_rate_7d": "634.95532"
+    "test_rate_7d": "634.93354"
   },
   {
     "collection_date": "2020-12-03T00:00:00.000",
     "post_rslt": "1348",
-    "neg_rslt": "18505",
-    "total": "19853",
-    "rate_pst_7d": "0.06773",
-    "test_rate_7d": "762.23245"
+    "neg_rslt": "18504",
+    "total": "19852",
+    "rate_pst_7d": "0.06774",
+    "test_rate_7d": "762.20341"
   },
   {
     "collection_date": "2020-12-04T00:00:00.000",
@@ -2533,15 +2533,15 @@
     "neg_rslt": "17686",
     "total": "19042",
     "rate_pst_7d": "0.06895",
-    "test_rate_7d": "825.14497"
+    "test_rate_7d": "825.12318"
   },
   {
     "collection_date": "2020-12-05T00:00:00.000",
     "post_rslt": "903",
     "neg_rslt": "7926",
     "total": "8829",
-    "rate_pst_7d": "0.07111",
-    "test_rate_7d": "828.73167"
+    "rate_pst_7d": "0.07112",
+    "test_rate_7d": "828.70989"
   },
   {
     "collection_date": "2020-12-06T00:00:00.000",
@@ -2549,15 +2549,15 @@
     "neg_rslt": "5267",
     "total": "5833",
     "rate_pst_7d": "0.07199",
-    "test_rate_7d": "817.761"
+    "test_rate_7d": "817.73922"
   },
   {
     "collection_date": "2020-12-07T00:00:00.000",
     "post_rslt": "1386",
-    "neg_rslt": "18840",
-    "total": "20226",
+    "neg_rslt": "18839",
+    "total": "20225",
     "rate_pst_7d": "0.07357",
-    "test_rate_7d": "831.63588"
+    "test_rate_7d": "831.6141"
   },
   {
     "collection_date": "2020-12-08T00:00:00.000",
@@ -2565,15 +2565,15 @@
     "neg_rslt": "18846",
     "total": "20507",
     "rate_pst_7d": "0.07548",
-    "test_rate_7d": "833.81404"
+    "test_rate_7d": "833.79226"
   },
   {
     "collection_date": "2020-12-09T00:00:00.000",
     "post_rslt": "1690",
-    "neg_rslt": "19931",
-    "total": "21621",
+    "neg_rslt": "19930",
+    "total": "21620",
     "rate_pst_7d": "0.07687",
-    "test_rate_7d": "841.57555"
+    "test_rate_7d": "841.55377"
   },
   {
     "collection_date": "2020-12-10T00:00:00.000",
@@ -2581,7 +2581,7 @@
     "neg_rslt": "17816",
     "total": "19305",
     "rate_pst_7d": "0.07846",
-    "test_rate_7d": "837.59678"
+    "test_rate_7d": "837.58226"
   },
   {
     "collection_date": "2020-12-11T00:00:00.000",
@@ -2589,15 +2589,15 @@
     "neg_rslt": "17084",
     "total": "18343",
     "rate_pst_7d": "0.07809",
-    "test_rate_7d": "832.52167"
+    "test_rate_7d": "832.50715"
   },
   {
     "collection_date": "2020-12-12T00:00:00.000",
     "post_rslt": "927",
     "neg_rslt": "8275",
     "total": "9202",
-    "rate_pst_7d": "0.07804",
-    "test_rate_7d": "835.22984"
+    "rate_pst_7d": "0.07805",
+    "test_rate_7d": "835.21532"
   },
   {
     "collection_date": "2020-12-13T00:00:00.000",
@@ -2605,7 +2605,7 @@
     "neg_rslt": "7595",
     "total": "8433",
     "rate_pst_7d": "0.07863",
-    "test_rate_7d": "854.10723"
+    "test_rate_7d": "854.09271"
   },
   {
     "collection_date": "2020-12-14T00:00:00.000",
@@ -2613,55 +2613,55 @@
     "neg_rslt": "19711",
     "total": "21125",
     "rate_pst_7d": "0.07827",
-    "test_rate_7d": "860.63445"
+    "test_rate_7d": "860.62719"
   },
   {
     "collection_date": "2020-12-15T00:00:00.000",
-    "post_rslt": "2051",
+    "post_rslt": "2050",
     "neg_rslt": "21965",
-    "total": "24016",
-    "rate_pst_7d": "0.07922",
-    "test_rate_7d": "886.11165"
+    "total": "24015",
+    "rate_pst_7d": "0.07921",
+    "test_rate_7d": "886.09713"
   },
   {
     "collection_date": "2020-12-16T00:00:00.000",
     "post_rslt": "1854",
     "neg_rslt": "20933",
     "total": "22787",
-    "rate_pst_7d": "0.0798",
-    "test_rate_7d": "894.57744"
+    "rate_pst_7d": "0.07979",
+    "test_rate_7d": "894.57017"
   },
   {
     "collection_date": "2020-12-17T00:00:00.000",
     "post_rslt": "1716",
     "neg_rslt": "20592",
     "total": "22308",
-    "rate_pst_7d": "0.0797",
-    "test_rate_7d": "916.38081"
+    "rate_pst_7d": "0.07969",
+    "test_rate_7d": "916.37355"
   },
   {
     "collection_date": "2020-12-18T00:00:00.000",
     "post_rslt": "1402",
     "neg_rslt": "18332",
     "total": "19734",
-    "rate_pst_7d": "0.07995",
-    "test_rate_7d": "926.48021"
+    "rate_pst_7d": "0.07994",
+    "test_rate_7d": "926.47295"
   },
   {
     "collection_date": "2020-12-19T00:00:00.000",
     "post_rslt": "883",
     "neg_rslt": "8688",
     "total": "9571",
-    "rate_pst_7d": "0.07938",
-    "test_rate_7d": "929.15935"
+    "rate_pst_7d": "0.07937",
+    "test_rate_7d": "929.15209"
   },
   {
     "collection_date": "2020-12-20T00:00:00.000",
     "post_rslt": "703",
     "neg_rslt": "8131",
     "total": "8834",
-    "rate_pst_7d": "0.07808",
-    "test_rate_7d": "932.07082"
+    "rate_pst_7d": "0.07807",
+    "test_rate_7d": "932.06356"
   },
   {
     "collection_date": "2020-12-21T00:00:00.000",
@@ -2669,7 +2669,7 @@
     "neg_rslt": "21894",
     "total": "23616",
     "rate_pst_7d": "0.07894",
-    "test_rate_7d": "950.15681"
+    "test_rate_7d": "950.14955"
   },
   {
     "collection_date": "2020-12-22T00:00:00.000",
@@ -2825,19 +2825,19 @@
   },
   {
     "collection_date": "2021-01-10T00:00:00.000",
-    "post_rslt": "781",
+    "post_rslt": "780",
     "neg_rslt": "8821",
-    "total": "9602",
-    "rate_pst_7d": "0.08473",
-    "test_rate_7d": "950.13503"
+    "total": "9601",
+    "rate_pst_7d": "0.08472",
+    "test_rate_7d": "950.12777"
   },
   {
     "collection_date": "2021-01-11T00:00:00.000",
     "post_rslt": "1453",
     "neg_rslt": "23028",
     "total": "24481",
-    "rate_pst_7d": "0.08152",
-    "test_rate_7d": "960.4595"
+    "rate_pst_7d": "0.08151",
+    "test_rate_7d": "960.45224"
   },
   {
     "collection_date": "2021-01-12T00:00:00.000",
@@ -2845,23 +2845,23 @@
     "neg_rslt": "21086",
     "total": "22743",
     "rate_pst_7d": "0.07701",
-    "test_rate_7d": "943.59329"
+    "test_rate_7d": "943.58603"
   },
   {
     "collection_date": "2021-01-13T00:00:00.000",
     "post_rslt": "1461",
     "neg_rslt": "20814",
     "total": "22275",
-    "rate_pst_7d": "0.07322",
-    "test_rate_7d": "938.67791"
+    "rate_pst_7d": "0.07321",
+    "test_rate_7d": "938.67065"
   },
   {
     "collection_date": "2021-01-14T00:00:00.000",
     "post_rslt": "1306",
     "neg_rslt": "20955",
     "total": "22261",
-    "rate_pst_7d": "0.06945",
-    "test_rate_7d": "937.85021"
+    "rate_pst_7d": "0.06944",
+    "test_rate_7d": "937.84295"
   },
   {
     "collection_date": "2021-01-15T00:00:00.000",
@@ -2869,7 +2869,7 @@
     "neg_rslt": "16584",
     "total": "17741",
     "rate_pst_7d": "0.06819",
-    "test_rate_7d": "938.31488"
+    "test_rate_7d": "938.30762"
   },
   {
     "collection_date": "2021-01-16T00:00:00.000",
@@ -2877,7 +2877,7 @@
     "neg_rslt": "8190",
     "total": "8932",
     "rate_pst_7d": "0.06683",
-    "test_rate_7d": "929.60224"
+    "test_rate_7d": "929.59498"
   },
   {
     "collection_date": "2021-01-17T00:00:00.000",
@@ -2914,10 +2914,10 @@
   {
     "collection_date": "2021-01-21T00:00:00.000",
     "post_rslt": "879",
-    "neg_rslt": "19778",
-    "total": "20657",
+    "neg_rslt": "19777",
+    "total": "20656",
     "rate_pst_7d": "0.05721",
-    "test_rate_7d": "815.06009"
+    "test_rate_7d": "815.05283"
   },
   {
     "collection_date": "2021-01-22T00:00:00.000",
@@ -2925,7 +2925,7 @@
     "neg_rslt": "16394",
     "total": "17137",
     "rate_pst_7d": "0.05381",
-    "test_rate_7d": "810.67472"
+    "test_rate_7d": "810.66746"
   },
   {
     "collection_date": "2021-01-23T00:00:00.000",
@@ -2933,7 +2933,7 @@
     "neg_rslt": "7458",
     "total": "7960",
     "rate_pst_7d": "0.05211",
-    "test_rate_7d": "803.61749"
+    "test_rate_7d": "803.61023"
   },
   {
     "collection_date": "2021-01-24T00:00:00.000",
@@ -2941,7 +2941,7 @@
     "neg_rslt": "5506",
     "total": "5918",
     "rate_pst_7d": "0.05107",
-    "test_rate_7d": "795.68173"
+    "test_rate_7d": "795.67447"
   },
   {
     "collection_date": "2021-01-25T00:00:00.000",
@@ -2949,7 +2949,7 @@
     "neg_rslt": "20617",
     "total": "21389",
     "rate_pst_7d": "0.04695",
-    "test_rate_7d": "854.02736"
+    "test_rate_7d": "854.0201"
   },
   {
     "collection_date": "2021-01-26T00:00:00.000",
@@ -2957,7 +2957,7 @@
     "neg_rslt": "17536",
     "total": "18168",
     "rate_pst_7d": "0.04459",
-    "test_rate_7d": "812.58424"
+    "test_rate_7d": "812.57698"
   },
   {
     "collection_date": "2021-01-27T00:00:00.000",
@@ -2965,7 +2965,7 @@
     "neg_rslt": "14801",
     "total": "15444",
     "rate_pst_7d": "0.04296",
-    "test_rate_7d": "774.50275"
+    "test_rate_7d": "774.49549"
   },
   {
     "collection_date": "2021-01-28T00:00:00.000",
@@ -3329,59 +3329,59 @@
   },
   {
     "collection_date": "2021-03-14T00:00:00.000",
-    "post_rslt": "88",
+    "post_rslt": "87",
     "neg_rslt": "4530",
-    "total": "4618",
-    "rate_pst_7d": "0.01154",
-    "test_rate_7d": "670.69166"
+    "total": "4617",
+    "rate_pst_7d": "0.01153",
+    "test_rate_7d": "670.6844"
   },
   {
     "collection_date": "2021-03-15T00:00:00.000",
     "post_rslt": "167",
     "neg_rslt": "17789",
     "total": "17956",
-    "rate_pst_7d": "0.0113",
-    "test_rate_7d": "661.03516"
+    "rate_pst_7d": "0.01129",
+    "test_rate_7d": "661.0279"
   },
   {
     "collection_date": "2021-03-16T00:00:00.000",
     "post_rslt": "148",
     "neg_rslt": "16943",
     "total": "17091",
-    "rate_pst_7d": "0.01077",
-    "test_rate_7d": "665.62381"
+    "rate_pst_7d": "0.01076",
+    "test_rate_7d": "665.61655"
   },
   {
     "collection_date": "2021-03-17T00:00:00.000",
     "post_rslt": "177",
     "neg_rslt": "15747",
     "total": "15924",
-    "rate_pst_7d": "0.01085",
-    "test_rate_7d": "664.64364"
+    "rate_pst_7d": "0.01084",
+    "test_rate_7d": "664.63638"
   },
   {
     "collection_date": "2021-03-18T00:00:00.000",
     "post_rslt": "138",
     "neg_rslt": "15591",
     "total": "15729",
-    "rate_pst_7d": "0.01086",
-    "test_rate_7d": "661.20941"
+    "rate_pst_7d": "0.01085",
+    "test_rate_7d": "661.20215"
   },
   {
     "collection_date": "2021-03-19T00:00:00.000",
     "post_rslt": "147",
     "neg_rslt": "13739",
     "total": "13886",
-    "rate_pst_7d": "0.01083",
-    "test_rate_7d": "660.99885"
+    "rate_pst_7d": "0.01082",
+    "test_rate_7d": "660.99159"
   },
   {
     "collection_date": "2021-03-20T00:00:00.000",
     "post_rslt": "79",
     "neg_rslt": "5337",
     "total": "5416",
-    "rate_pst_7d": "0.01042",
-    "test_rate_7d": "657.94943"
+    "rate_pst_7d": "0.01041",
+    "test_rate_7d": "657.94217"
   },
   {
     "collection_date": "2021-03-21T00:00:00.000",
@@ -3450,10 +3450,10 @@
   {
     "collection_date": "2021-03-29T00:00:00.000",
     "post_rslt": "136",
-    "neg_rslt": "19021",
-    "total": "19157",
+    "neg_rslt": "19020",
+    "total": "19156",
     "rate_pst_7d": "0.00981",
-    "test_rate_7d": "674.25659"
+    "test_rate_7d": "674.24932"
   },
   {
     "collection_date": "2021-03-30T00:00:00.000",
@@ -3461,7 +3461,7 @@
     "neg_rslt": "16565",
     "total": "16680",
     "rate_pst_7d": "0.0093",
-    "test_rate_7d": "682.84579"
+    "test_rate_7d": "682.83853"
   },
   {
     "collection_date": "2021-03-31T00:00:00.000",
@@ -3469,7 +3469,7 @@
     "neg_rslt": "14734",
     "total": "14897",
     "rate_pst_7d": "0.00959",
-    "test_rate_7d": "672.48502"
+    "test_rate_7d": "672.47775"
   },
   {
     "collection_date": "2021-04-01T00:00:00.000",
@@ -3477,7 +3477,7 @@
     "neg_rslt": "16751",
     "total": "16903",
     "rate_pst_7d": "0.00953",
-    "test_rate_7d": "669.43559"
+    "test_rate_7d": "669.42833"
   },
   {
     "collection_date": "2021-04-02T00:00:00.000",
@@ -3485,7 +3485,7 @@
     "neg_rslt": "13474",
     "total": "13607",
     "rate_pst_7d": "0.00918",
-    "test_rate_7d": "675.24402"
+    "test_rate_7d": "675.23676"
   },
   {
     "collection_date": "2021-04-03T00:00:00.000",
@@ -3493,7 +3493,7 @@
     "neg_rslt": "5692",
     "total": "5784",
     "rate_pst_7d": "0.0093",
-    "test_rate_7d": "674.53249"
+    "test_rate_7d": "674.52522"
   },
   {
     "collection_date": "2021-04-04T00:00:00.000",
@@ -3501,7 +3501,7 @@
     "neg_rslt": "4929",
     "total": "5007",
     "rate_pst_7d": "0.00944",
-    "test_rate_7d": "668.22308"
+    "test_rate_7d": "668.21582"
   },
   {
     "collection_date": "2021-04-05T00:00:00.000",
@@ -3690,10 +3690,10 @@
   {
     "collection_date": "2021-04-28T00:00:00.000",
     "post_rslt": "85",
-    "neg_rslt": "17297",
-    "total": "17382",
+    "neg_rslt": "17296",
+    "total": "17381",
     "rate_pst_7d": "0.0071",
-    "test_rate_7d": "708.31574"
+    "test_rate_7d": "708.30848"
   },
   {
     "collection_date": "2021-04-29T00:00:00.000",
@@ -3701,7 +3701,7 @@
     "neg_rslt": "15511",
     "total": "15614",
     "rate_pst_7d": "0.00723",
-    "test_rate_7d": "692.80724"
+    "test_rate_7d": "692.79998"
   },
   {
     "collection_date": "2021-04-30T00:00:00.000",
@@ -3709,7 +3709,7 @@
     "neg_rslt": "11625",
     "total": "11707",
     "rate_pst_7d": "0.00697",
-    "test_rate_7d": "677.4004"
+    "test_rate_7d": "677.39313"
   },
   {
     "collection_date": "2021-05-01T00:00:00.000",
@@ -3717,15 +3717,15 @@
     "neg_rslt": "5857",
     "total": "5920",
     "rate_pst_7d": "0.00669",
-    "test_rate_7d": "678.28618"
+    "test_rate_7d": "678.27892"
   },
   {
     "collection_date": "2021-05-02T00:00:00.000",
     "post_rslt": "60",
-    "neg_rslt": "4684",
-    "total": "4744",
+    "neg_rslt": "4683",
+    "total": "4743",
     "rate_pst_7d": "0.00665",
-    "test_rate_7d": "671.54115"
+    "test_rate_7d": "671.52662"
   },
   {
     "collection_date": "2021-05-03T00:00:00.000",
@@ -3733,7 +3733,7 @@
     "neg_rslt": "18023",
     "total": "18110",
     "rate_pst_7d": "0.00667",
-    "test_rate_7d": "662.48"
+    "test_rate_7d": "662.46548"
   },
   {
     "collection_date": "2021-05-04T00:00:00.000",
@@ -3741,15 +3741,15 @@
     "neg_rslt": "15689",
     "total": "15788",
     "rate_pst_7d": "0.00649",
-    "test_rate_7d": "648.11141"
+    "test_rate_7d": "648.09689"
   },
   {
     "collection_date": "2021-05-05T00:00:00.000",
     "post_rslt": "96",
-    "neg_rslt": "14792",
-    "total": "14888",
+    "neg_rslt": "14791",
+    "total": "14887",
     "rate_pst_7d": "0.0068",
-    "test_rate_7d": "630.00364"
+    "test_rate_7d": "629.98912"
   },
   {
     "collection_date": "2021-05-06T00:00:00.000",
@@ -3757,7 +3757,7 @@
     "neg_rslt": "14984",
     "total": "15051",
     "rate_pst_7d": "0.00643",
-    "test_rate_7d": "625.91596"
+    "test_rate_7d": "625.90144"
   },
   {
     "collection_date": "2021-05-07T00:00:00.000",
@@ -3765,23 +3765,23 @@
     "neg_rslt": "11400",
     "total": "11465",
     "rate_pst_7d": "0.00625",
-    "test_rate_7d": "624.15891"
+    "test_rate_7d": "624.14439"
   },
   {
     "collection_date": "2021-05-08T00:00:00.000",
     "post_rslt": "39",
     "neg_rslt": "5061",
     "total": "5100",
-    "rate_pst_7d": "0.00602",
-    "test_rate_7d": "618.20528"
+    "rate_pst_7d": "0.00603",
+    "test_rate_7d": "618.19076"
   },
   {
     "collection_date": "2021-05-09T00:00:00.000",
     "post_rslt": "37",
-    "neg_rslt": "4197",
-    "total": "4234",
+    "neg_rslt": "4196",
+    "total": "4233",
     "rate_pst_7d": "0.00579",
-    "test_rate_7d": "614.5024"
+    "test_rate_7d": "614.48788"
   },
   {
     "collection_date": "2021-05-10T00:00:00.000",
@@ -3789,7 +3789,7 @@
     "neg_rslt": "17005",
     "total": "17060",
     "rate_pst_7d": "0.00548",
-    "test_rate_7d": "606.87885"
+    "test_rate_7d": "606.86432"
   },
   {
     "collection_date": "2021-05-11T00:00:00.000",
@@ -3797,15 +3797,15 @@
     "neg_rslt": "14385",
     "total": "14471",
     "rate_pst_7d": "0.00541",
-    "test_rate_7d": "597.31673"
+    "test_rate_7d": "597.3022"
   },
   {
     "collection_date": "2021-05-12T00:00:00.000",
     "post_rslt": "67",
-    "neg_rslt": "14484",
-    "total": "14551",
+    "neg_rslt": "14483",
+    "total": "14550",
     "rate_pst_7d": "0.00508",
-    "test_rate_7d": "594.86993"
+    "test_rate_7d": "594.8554"
   },
   {
     "collection_date": "2021-05-13T00:00:00.000",
@@ -3813,7 +3813,7 @@
     "neg_rslt": "12129",
     "total": "12228",
     "rate_pst_7d": "0.00566",
-    "test_rate_7d": "574.37344"
+    "test_rate_7d": "574.35892"
   },
   {
     "collection_date": "2021-05-14T00:00:00.000",
@@ -3821,7 +3821,7 @@
     "neg_rslt": "9735",
     "total": "9798",
     "rate_pst_7d": "0.00576",
-    "test_rate_7d": "562.27014"
+    "test_rate_7d": "562.25562"
   },
   {
     "collection_date": "2021-05-15T00:00:00.000",
@@ -3829,15 +3829,15 @@
     "neg_rslt": "4646",
     "total": "4683",
     "rate_pst_7d": "0.00576",
-    "test_rate_7d": "559.24249"
+    "test_rate_7d": "559.22797"
   },
   {
     "collection_date": "2021-05-16T00:00:00.000",
     "post_rslt": "36",
-    "neg_rslt": "4805",
-    "total": "4841",
+    "neg_rslt": "4804",
+    "total": "4840",
     "rate_pst_7d": "0.00571",
-    "test_rate_7d": "563.64964"
+    "test_rate_7d": "563.63512"
   },
   {
     "collection_date": "2021-05-17T00:00:00.000",
@@ -3845,7 +3845,7 @@
     "neg_rslt": "16400",
     "total": "16437",
     "rate_pst_7d": "0.00552",
-    "test_rate_7d": "559.12633"
+    "test_rate_7d": "559.1118"
   },
   {
     "collection_date": "2021-05-18T00:00:00.000",
@@ -3853,15 +3853,15 @@
     "neg_rslt": "13403",
     "total": "13458",
     "rate_pst_7d": "0.00518",
-    "test_rate_7d": "551.77141"
+    "test_rate_7d": "551.75689"
   },
   {
     "collection_date": "2021-05-19T00:00:00.000",
     "post_rslt": "42",
-    "neg_rslt": "14231",
-    "total": "14273",
+    "neg_rslt": "14230",
+    "total": "14272",
     "rate_pst_7d": "0.00487",
-    "test_rate_7d": "549.75298"
+    "test_rate_7d": "549.73846"
   },
   {
     "collection_date": "2021-05-20T00:00:00.000",
@@ -3869,7 +3869,7 @@
     "neg_rslt": "12858",
     "total": "12917",
     "rate_pst_7d": "0.00431",
-    "test_rate_7d": "554.75549"
+    "test_rate_7d": "554.74096"
   },
   {
     "collection_date": "2021-05-21T00:00:00.000",
@@ -3877,7 +3877,7 @@
     "neg_rslt": "10407",
     "total": "10440",
     "rate_pst_7d": "0.00388",
-    "test_rate_7d": "559.41675"
+    "test_rate_7d": "559.40223"
   },
   {
     "collection_date": "2021-05-22T00:00:00.000",
@@ -3885,15 +3885,15 @@
     "neg_rslt": "4688",
     "total": "4725",
     "rate_pst_7d": "0.00388",
-    "test_rate_7d": "559.72169"
+    "test_rate_7d": "559.70717"
   },
   {
     "collection_date": "2021-05-23T00:00:00.000",
     "post_rslt": "22",
-    "neg_rslt": "4543",
-    "total": "4565",
+    "neg_rslt": "4542",
+    "total": "4564",
     "rate_pst_7d": "0.00371",
-    "test_rate_7d": "557.71778"
+    "test_rate_7d": "557.70326"
   },
   {
     "collection_date": "2021-05-24T00:00:00.000",
@@ -3901,7 +3901,7 @@
     "neg_rslt": "15387",
     "total": "15417",
     "rate_pst_7d": "0.00367",
-    "test_rate_7d": "550.31204"
+    "test_rate_7d": "550.29752"
   },
   {
     "collection_date": "2021-05-25T00:00:00.000",
@@ -3909,15 +3909,15 @@
     "neg_rslt": "11886",
     "total": "11928",
     "rate_pst_7d": "0.00357",
-    "test_rate_7d": "539.20343"
+    "test_rate_7d": "539.1889"
   },
   {
     "collection_date": "2021-05-26T00:00:00.000",
     "post_rslt": "36",
-    "neg_rslt": "12720",
-    "total": "12756",
+    "neg_rslt": "12719",
+    "total": "12755",
     "rate_pst_7d": "0.00356",
-    "test_rate_7d": "528.1892"
+    "test_rate_7d": "528.17468"
   },
   {
     "collection_date": "2021-05-27T00:00:00.000",
@@ -3925,7 +3925,7 @@
     "neg_rslt": "10945",
     "total": "10993",
     "rate_pst_7d": "0.0035",
-    "test_rate_7d": "514.21993"
+    "test_rate_7d": "514.20541"
   },
   {
     "collection_date": "2021-05-28T00:00:00.000",
@@ -3933,7 +3933,7 @@
     "neg_rslt": "8789",
     "total": "8818",
     "rate_pst_7d": "0.00353",
-    "test_rate_7d": "502.44335"
+    "test_rate_7d": "502.42883"
   },
   {
     "collection_date": "2021-05-29T00:00:00.000",
@@ -3941,7 +3941,7 @@
     "neg_rslt": "4262",
     "total": "4284",
     "rate_pst_7d": "0.00333",
-    "test_rate_7d": "499.24146"
+    "test_rate_7d": "499.22693"
   },
   {
     "collection_date": "2021-05-30T00:00:00.000",
@@ -3949,15 +3949,15 @@
     "neg_rslt": "3951",
     "total": "3985",
     "rate_pst_7d": "0.00353",
-    "test_rate_7d": "495.03035"
+    "test_rate_7d": "495.02309"
   },
   {
     "collection_date": "2021-05-31T00:00:00.000",
     "post_rslt": "12",
-    "neg_rslt": "4086",
-    "total": "4098",
+    "neg_rslt": "4085",
+    "total": "4097",
     "rate_pst_7d": "0.00392",
-    "test_rate_7d": "412.84838"
+    "test_rate_7d": "412.83386"
   },
   {
     "collection_date": "2021-06-01T00:00:00.000",
@@ -3965,7 +3965,7 @@
     "neg_rslt": "15652",
     "total": "15702",
     "rate_pst_7d": "0.00381",
-    "test_rate_7d": "440.24963"
+    "test_rate_7d": "440.23511"
   },
   {
     "collection_date": "2021-06-02T00:00:00.000",
@@ -3973,7 +3973,7 @@
     "neg_rslt": "12446",
     "total": "12491",
     "rate_pst_7d": "0.00398",
-    "test_rate_7d": "438.32559"
+    "test_rate_7d": "438.31833"
   },
   {
     "collection_date": "2021-06-03T00:00:00.000",
@@ -3981,7 +3981,7 @@
     "neg_rslt": "11361",
     "total": "11402",
     "rate_pst_7d": "0.00383",
-    "test_rate_7d": "441.29515"
+    "test_rate_7d": "441.28789"
   },
   {
     "collection_date": "2021-06-04T00:00:00.000",
@@ -3989,7 +3989,7 @@
     "neg_rslt": "9370",
     "total": "9419",
     "rate_pst_7d": "0.00412",
-    "test_rate_7d": "445.65873"
+    "test_rate_7d": "445.65147"
   },
   {
     "collection_date": "2021-06-05T00:00:00.000",
@@ -3997,15 +3997,15 @@
     "neg_rslt": "4679",
     "total": "4709",
     "rate_pst_7d": "0.00422",
-    "test_rate_7d": "448.74445"
+    "test_rate_7d": "448.73719"
   },
   {
     "collection_date": "2021-06-06T00:00:00.000",
     "post_rslt": "25",
-    "neg_rslt": "4995",
-    "total": "5020",
+    "neg_rslt": "4994",
+    "total": "5019",
     "rate_pst_7d": "0.00401",
-    "test_rate_7d": "456.25911"
+    "test_rate_7d": "456.24458"
   },
   {
     "collection_date": "2021-06-07T00:00:00.000",
@@ -4013,7 +4013,7 @@
     "neg_rslt": "11707",
     "total": "11742",
     "rate_pst_7d": "0.0039",
-    "test_rate_7d": "511.75861"
+    "test_rate_7d": "511.75135"
   },
   {
     "collection_date": "2021-06-08T00:00:00.000",
@@ -4021,15 +4021,15 @@
     "neg_rslt": "10188",
     "total": "10222",
     "rate_pst_7d": "0.00398",
-    "test_rate_7d": "471.9709"
+    "test_rate_7d": "471.96364"
   },
   {
     "collection_date": "2021-06-09T00:00:00.000",
     "post_rslt": "29",
-    "neg_rslt": "10116",
-    "total": "10145",
+    "neg_rslt": "10115",
+    "total": "10144",
     "rate_pst_7d": "0.00388",
-    "test_rate_7d": "454.93769"
+    "test_rate_7d": "454.92317"
   },
   {
     "collection_date": "2021-06-10T00:00:00.000",
@@ -4037,7 +4037,7 @@
     "neg_rslt": "9215",
     "total": "9258",
     "rate_pst_7d": "0.00405",
-    "test_rate_7d": "439.37111"
+    "test_rate_7d": "439.35659"
   },
   {
     "collection_date": "2021-06-11T00:00:00.000",
@@ -4045,7 +4045,7 @@
     "neg_rslt": "7605",
     "total": "7645",
     "rate_pst_7d": "0.00402",
-    "test_rate_7d": "426.49092"
+    "test_rate_7d": "426.4764"
   },
   {
     "collection_date": "2021-06-12T00:00:00.000",
@@ -4053,15 +4053,15 @@
     "neg_rslt": "4456",
     "total": "4483",
     "rate_pst_7d": "0.00398",
-    "test_rate_7d": "424.85004"
+    "test_rate_7d": "424.83552"
   },
   {
     "collection_date": "2021-06-13T00:00:00.000",
     "post_rslt": "24",
-    "neg_rslt": "4770",
-    "total": "4794",
+    "neg_rslt": "4769",
+    "total": "4793",
     "rate_pst_7d": "0.00398",
-    "test_rate_7d": "423.20916"
+    "test_rate_7d": "423.19464"
   },
   {
     "collection_date": "2021-06-14T00:00:00.000",
@@ -4069,7 +4069,7 @@
     "neg_rslt": "9478",
     "total": "9506",
     "rate_pst_7d": "0.00401",
-    "test_rate_7d": "406.97461"
+    "test_rate_7d": "406.96009"
   },
   {
     "collection_date": "2021-06-15T00:00:00.000",
@@ -4077,7 +4077,7 @@
     "neg_rslt": "8723",
     "total": "8763",
     "rate_pst_7d": "0.00423",
-    "test_rate_7d": "396.3815"
+    "test_rate_7d": "396.36697"
   },
   {
     "collection_date": "2021-06-16T00:00:00.000",
@@ -4085,7 +4085,7 @@
     "neg_rslt": "8612",
     "total": "8646",
     "rate_pst_7d": "0.00444",
-    "test_rate_7d": "385.49796"
+    "test_rate_7d": "385.4907"
   },
   {
     "collection_date": "2021-06-17T00:00:00.000",
@@ -4093,7 +4093,7 @@
     "neg_rslt": "8475",
     "total": "8522",
     "rate_pst_7d": "0.00458",
-    "test_rate_7d": "380.15421"
+    "test_rate_7d": "380.14695"
   },
   {
     "collection_date": "2021-06-18T00:00:00.000",
@@ -4101,7 +4101,7 @@
     "neg_rslt": "6262",
     "total": "6296",
     "rate_pst_7d": "0.00459",
-    "test_rate_7d": "370.35975"
+    "test_rate_7d": "370.35249"
   },
   {
     "collection_date": "2021-06-19T00:00:00.000",
@@ -4109,15 +4109,15 @@
     "neg_rslt": "4180",
     "total": "4198",
     "rate_pst_7d": "0.00444",
-    "test_rate_7d": "368.2905"
+    "test_rate_7d": "368.28324"
   },
   {
     "collection_date": "2021-06-20T00:00:00.000",
     "post_rslt": "21",
-    "neg_rslt": "3473",
-    "total": "3494",
+    "neg_rslt": "3472",
+    "total": "3493",
     "rate_pst_7d": "0.00449",
-    "test_rate_7d": "358.8518"
+    "test_rate_7d": "358.84454"
   },
   {
     "collection_date": "2021-06-21T00:00:00.000",
@@ -4125,7 +4125,7 @@
     "neg_rslt": "9565",
     "total": "9613",
     "rate_pst_7d": "0.00489",
-    "test_rate_7d": "359.62868"
+    "test_rate_7d": "359.62142"
   },
   {
     "collection_date": "2021-06-22T00:00:00.000",
@@ -4133,7 +4133,7 @@
     "neg_rslt": "8627",
     "total": "8668",
     "rate_pst_7d": "0.00492",
-    "test_rate_7d": "358.93893"
+    "test_rate_7d": "358.93167"
   },
   {
     "collection_date": "2021-06-23T00:00:00.000",
@@ -4141,7 +4141,7 @@
     "neg_rslt": "8373",
     "total": "8414",
     "rate_pst_7d": "0.00508",
-    "test_rate_7d": "357.25449"
+    "test_rate_7d": "357.24723"
   },
   {
     "collection_date": "2021-06-24T00:00:00.000",
@@ -4149,7 +4149,7 @@
     "neg_rslt": "8327",
     "total": "8366",
     "rate_pst_7d": "0.00493",
-    "test_rate_7d": "356.12184"
+    "test_rate_7d": "356.11458"
   },
   {
     "collection_date": "2021-06-25T00:00:00.000",
@@ -4157,7 +4157,7 @@
     "neg_rslt": "7021",
     "total": "7056",
     "rate_pst_7d": "0.00488",
-    "test_rate_7d": "361.63985"
+    "test_rate_7d": "361.63259"
   },
   {
     "collection_date": "2021-06-26T00:00:00.000",
@@ -4165,15 +4165,15 @@
     "neg_rslt": "4398",
     "total": "4419",
     "rate_pst_7d": "0.00492",
-    "test_rate_7d": "363.24443"
+    "test_rate_7d": "363.23717"
   },
   {
     "collection_date": "2021-06-27T00:00:00.000",
     "post_rslt": "25",
-    "neg_rslt": "3915",
-    "total": "3940",
+    "neg_rslt": "3914",
+    "total": "3939",
     "rate_pst_7d": "0.00495",
-    "test_rate_7d": "366.48262"
+    "test_rate_7d": "366.47536"
   },
   {
     "collection_date": "2021-06-28T00:00:00.000",
@@ -4181,7 +4181,7 @@
     "neg_rslt": "9678",
     "total": "9735",
     "rate_pst_7d": "0.00512",
-    "test_rate_7d": "367.36841"
+    "test_rate_7d": "367.36115"
   },
   {
     "collection_date": "2021-06-29T00:00:00.000",
@@ -4189,7 +4189,7 @@
     "neg_rslt": "9378",
     "total": "9429",
     "rate_pst_7d": "0.00524",
-    "test_rate_7d": "372.89367"
+    "test_rate_7d": "372.88641"
   },
   {
     "collection_date": "2021-06-30T00:00:00.000",
@@ -4197,7 +4197,7 @@
     "neg_rslt": "9058",
     "total": "9111",
     "rate_pst_7d": "0.0054",
-    "test_rate_7d": "377.95427"
+    "test_rate_7d": "377.947"
   },
   {
     "collection_date": "2021-07-01T00:00:00.000",
@@ -4205,7 +4205,7 @@
     "neg_rslt": "8842",
     "total": "8899",
     "rate_pst_7d": "0.00569",
-    "test_rate_7d": "381.82413"
+    "test_rate_7d": "381.81687"
   },
   {
     "collection_date": "2021-07-02T00:00:00.000",
@@ -4213,7 +4213,7 @@
     "neg_rslt": "8273",
     "total": "8323",
     "rate_pst_7d": "0.00583",
-    "test_rate_7d": "391.02322"
+    "test_rate_7d": "391.01596"
   },
   {
     "collection_date": "2021-07-03T00:00:00.000",
@@ -4221,7 +4221,7 @@
     "neg_rslt": "4805",
     "total": "4884",
     "rate_pst_7d": "0.00685",
-    "test_rate_7d": "394.39937"
+    "test_rate_7d": "394.39211"
   },
   {
     "collection_date": "2021-07-04T00:00:00.000",
@@ -4234,16 +4234,16 @@
   {
     "collection_date": "2021-07-05T00:00:00.000",
     "post_rslt": "71",
-    "neg_rslt": "5322",
-    "total": "5393",
+    "neg_rslt": "5321",
+    "total": "5392",
     "rate_pst_7d": "0.008",
-    "test_rate_7d": "346.87919"
+    "test_rate_7d": "346.87193"
   },
   {
     "collection_date": "2021-07-06T00:00:00.000",
     "post_rslt": "116",
-    "neg_rslt": "9959",
-    "total": "10075",
+    "neg_rslt": "9960",
+    "total": "10076",
     "rate_pst_7d": "0.00923",
     "test_rate_7d": "351.56949"
   },
@@ -4258,10 +4258,10 @@
   {
     "collection_date": "2021-07-08T00:00:00.000",
     "post_rslt": "99",
-    "neg_rslt": "7846",
-    "total": "7945",
+    "neg_rslt": "7847",
+    "total": "7946",
     "rate_pst_7d": "0.01134",
-    "test_rate_7d": "341.31762"
+    "test_rate_7d": "341.32488"
   },
   {
     "collection_date": "2021-07-09T00:00:00.000",
@@ -4269,7 +4269,7 @@
     "neg_rslt": "7459",
     "total": "7573",
     "rate_pst_7d": "0.01291",
-    "test_rate_7d": "335.87222"
+    "test_rate_7d": "335.87948"
   },
   {
     "collection_date": "2021-07-10T00:00:00.000",
@@ -4277,22 +4277,22 @@
     "neg_rslt": "4212",
     "total": "4328",
     "rate_pst_7d": "0.01387",
-    "test_rate_7d": "331.83536"
+    "test_rate_7d": "331.84263"
   },
   {
     "collection_date": "2021-07-11T00:00:00.000",
-    "post_rslt": "71",
-    "neg_rslt": "3653",
-    "total": "3724",
-    "rate_pst_7d": "0.01434",
-    "test_rate_7d": "346.26204"
+    "post_rslt": "70",
+    "neg_rslt": "3652",
+    "total": "3722",
+    "rate_pst_7d": "0.01432",
+    "test_rate_7d": "346.25478"
   },
   {
     "collection_date": "2021-07-12T00:00:00.000",
     "post_rslt": "145",
     "neg_rslt": "9206",
     "total": "9351",
-    "rate_pst_7d": "0.01468",
+    "rate_pst_7d": "0.01466",
     "test_rate_7d": "374.99923"
   },
   {
@@ -4300,208 +4300,216 @@
     "post_rslt": "164",
     "neg_rslt": "8637",
     "total": "8801",
-    "rate_pst_7d": "0.016",
-    "test_rate_7d": "365.74931"
+    "rate_pst_7d": "0.01598",
+    "test_rate_7d": "365.74205"
   },
   {
     "collection_date": "2021-07-14T00:00:00.000",
     "post_rslt": "180",
     "neg_rslt": "9341",
     "total": "9521",
-    "rate_pst_7d": "0.01735",
-    "test_rate_7d": "372.05145"
+    "rate_pst_7d": "0.01733",
+    "test_rate_7d": "372.04419"
   },
   {
     "collection_date": "2021-07-15T00:00:00.000",
     "post_rslt": "196",
-    "neg_rslt": "8453",
-    "total": "8649",
-    "rate_pst_7d": "0.01898",
-    "test_rate_7d": "377.16287"
+    "neg_rslt": "8452",
+    "total": "8648",
+    "rate_pst_7d": "0.01896",
+    "test_rate_7d": "377.14109"
   },
   {
     "collection_date": "2021-07-16T00:00:00.000",
-    "post_rslt": "161",
+    "post_rslt": "160",
     "neg_rslt": "8430",
-    "total": "8591",
-    "rate_pst_7d": "0.0195",
-    "test_rate_7d": "384.55409"
+    "total": "8590",
+    "rate_pst_7d": "0.01947",
+    "test_rate_7d": "384.52505"
   },
   {
     "collection_date": "2021-07-17T00:00:00.000",
-    "post_rslt": "174",
+    "post_rslt": "173",
     "neg_rslt": "4694",
-    "total": "4868",
-    "rate_pst_7d": "0.02039",
-    "test_rate_7d": "388.47478"
+    "total": "4867",
+    "rate_pst_7d": "0.02034",
+    "test_rate_7d": "388.43847"
   },
   {
     "collection_date": "2021-07-18T00:00:00.000",
     "post_rslt": "133",
-    "neg_rslt": "4183",
-    "total": "4316",
-    "rate_pst_7d": "0.02131",
-    "test_rate_7d": "392.77301"
+    "neg_rslt": "4182",
+    "total": "4315",
+    "rate_pst_7d": "0.02128",
+    "test_rate_7d": "392.74397"
   },
   {
     "collection_date": "2021-07-19T00:00:00.000",
     "post_rslt": "238",
     "neg_rslt": "9494",
     "total": "9732",
-    "rate_pst_7d": "0.02287",
-    "test_rate_7d": "395.53927"
+    "rate_pst_7d": "0.02284",
+    "test_rate_7d": "395.51023"
   },
   {
     "collection_date": "2021-07-20T00:00:00.000",
     "post_rslt": "258",
     "neg_rslt": "9455",
     "total": "9713",
-    "rate_pst_7d": "0.02419",
-    "test_rate_7d": "402.16088"
+    "rate_pst_7d": "0.02416",
+    "test_rate_7d": "402.13184"
   },
   {
     "collection_date": "2021-07-21T00:00:00.000",
     "post_rslt": "277",
-    "neg_rslt": "10060",
-    "total": "10337",
-    "rate_pst_7d": "0.02557",
-    "test_rate_7d": "408.08547"
+    "neg_rslt": "10059",
+    "total": "10336",
+    "rate_pst_7d": "0.02553",
+    "test_rate_7d": "408.04917"
   },
   {
     "collection_date": "2021-07-22T00:00:00.000",
     "post_rslt": "248",
-    "neg_rslt": "9499",
-    "total": "9747",
-    "rate_pst_7d": "0.02598",
-    "test_rate_7d": "416.05754"
+    "neg_rslt": "9500",
+    "total": "9748",
+    "rate_pst_7d": "0.02595",
+    "test_rate_7d": "416.03576"
   },
   {
     "collection_date": "2021-07-23T00:00:00.000",
-    "post_rslt": "286",
-    "neg_rslt": "9349",
-    "total": "9635",
-    "rate_pst_7d": "0.02766",
-    "test_rate_7d": "423.63753"
+    "post_rslt": "283",
+    "neg_rslt": "9351",
+    "total": "9634",
+    "rate_pst_7d": "0.02759",
+    "test_rate_7d": "423.61575"
   },
   {
     "collection_date": "2021-07-24T00:00:00.000",
-    "post_rslt": "207",
+    "post_rslt": "205",
     "neg_rslt": "5109",
-    "total": "5316",
-    "rate_pst_7d": "0.02801",
-    "test_rate_7d": "426.89025"
+    "total": "5314",
+    "rate_pst_7d": "0.02793",
+    "test_rate_7d": "426.86121"
   },
   {
     "collection_date": "2021-07-25T00:00:00.000",
     "post_rslt": "180",
     "neg_rslt": "4877",
     "total": "5057",
-    "rate_pst_7d": "0.02845",
-    "test_rate_7d": "432.27031"
+    "rate_pst_7d": "0.02837",
+    "test_rate_7d": "432.24853"
   },
   {
     "collection_date": "2021-07-26T00:00:00.000",
-    "post_rslt": "343",
-    "neg_rslt": "11353",
+    "post_rslt": "342",
+    "neg_rslt": "11354",
     "total": "11696",
-    "rate_pst_7d": "0.02925",
-    "test_rate_7d": "446.52999"
+    "rate_pst_7d": "0.02916",
+    "test_rate_7d": "446.50821"
   },
   {
     "collection_date": "2021-07-27T00:00:00.000",
-    "post_rslt": "386",
+    "post_rslt": "382",
     "neg_rslt": "11527",
-    "total": "11913",
-    "rate_pst_7d": "0.03025",
-    "test_rate_7d": "462.50316"
+    "total": "11909",
+    "rate_pst_7d": "0.0301",
+    "test_rate_7d": "462.45234"
   },
   {
     "collection_date": "2021-07-28T00:00:00.000",
-    "post_rslt": "390",
+    "post_rslt": "384",
     "neg_rslt": "11293",
-    "total": "11683",
-    "rate_pst_7d": "0.03136",
-    "test_rate_7d": "472.27584"
+    "total": "11677",
+    "rate_pst_7d": "0.03112",
+    "test_rate_7d": "472.18871"
   },
   {
     "collection_date": "2021-07-29T00:00:00.000",
-    "post_rslt": "323",
-    "neg_rslt": "10300",
-    "total": "10623",
-    "rate_pst_7d": "0.03208",
-    "test_rate_7d": "478.63607"
+    "post_rslt": "319",
+    "neg_rslt": "10301",
+    "total": "10620",
+    "rate_pst_7d": "0.03179",
+    "test_rate_7d": "478.5199"
   },
   {
     "collection_date": "2021-07-30T00:00:00.000",
-    "post_rslt": "239",
+    "post_rslt": "238",
     "neg_rslt": "8851",
-    "total": "9090",
-    "rate_pst_7d": "0.03163",
-    "test_rate_7d": "474.67908"
+    "total": "9089",
+    "rate_pst_7d": "0.03136",
+    "test_rate_7d": "474.56291"
   },
   {
     "collection_date": "2021-07-31T00:00:00.000",
-    "post_rslt": "213",
+    "post_rslt": "211",
     "neg_rslt": "4687",
-    "total": "4900",
-    "rate_pst_7d": "0.03193",
-    "test_rate_7d": "471.65869"
+    "total": "4898",
+    "rate_pst_7d": "0.03166",
+    "test_rate_7d": "471.54253"
   },
   {
     "collection_date": "2021-08-01T00:00:00.000",
-    "post_rslt": "220",
-    "neg_rslt": "4756",
-    "total": "4976",
-    "rate_pst_7d": "0.03258",
-    "test_rate_7d": "471.07059"
+    "post_rslt": "217",
+    "neg_rslt": "4757",
+    "total": "4974",
+    "rate_pst_7d": "0.03227",
+    "test_rate_7d": "470.9399"
   },
   {
     "collection_date": "2021-08-02T00:00:00.000",
-    "post_rslt": "300",
-    "neg_rslt": "10807",
-    "total": "11107",
-    "test_rate_7d": "466.79414"
+    "post_rslt": "301",
+    "neg_rslt": "10819",
+    "total": "11120",
+    "rate_pst_7d": "0.03192",
+    "test_rate_7d": "466.75783"
   },
   {
     "collection_date": "2021-08-03T00:00:00.000",
-    "post_rslt": "401",
-    "neg_rslt": "11520",
-    "total": "11921",
-    "test_rate_7d": "466.85222"
+    "post_rslt": "402",
+    "neg_rslt": "11576",
+    "total": "11978",
+    "test_rate_7d": "467.25881"
   },
   {
     "collection_date": "2021-08-04T00:00:00.000",
-    "post_rslt": "370",
-    "neg_rslt": "11619",
-    "total": "11989",
-    "test_rate_7d": "469.07394"
+    "post_rslt": "373",
+    "neg_rslt": "11770",
+    "total": "12143",
+    "test_rate_7d": "470.64222"
   },
   {
     "collection_date": "2021-08-05T00:00:00.000",
-    "post_rslt": "408",
-    "neg_rslt": "11334",
-    "total": "11742",
-    "test_rate_7d": "477.19848"
+    "post_rslt": "426",
+    "neg_rslt": "11719",
+    "total": "12145",
+    "test_rate_7d": "481.71453"
   },
   {
     "collection_date": "2021-08-06T00:00:00.000",
-    "post_rslt": "314",
-    "neg_rslt": "9237",
-    "total": "9551",
-    "test_rate_7d": "480.54559"
+    "post_rslt": "339",
+    "neg_rslt": "10278",
+    "total": "10617",
+    "test_rate_7d": "492.80862"
   },
   {
     "collection_date": "2021-08-07T00:00:00.000",
-    "post_rslt": "176",
-    "neg_rslt": "4295",
-    "total": "4471",
-    "test_rate_7d": "477.43082"
+    "post_rslt": "207",
+    "neg_rslt": "5218",
+    "total": "5425",
+    "test_rate_7d": "496.63492"
   },
   {
     "collection_date": "2021-08-08T00:00:00.000",
-    "post_rslt": "22",
-    "neg_rslt": "552",
-    "total": "574",
-    "test_rate_7d": "445.46995"
+    "post_rslt": "185",
+    "neg_rslt": "3852",
+    "total": "4037",
+    "test_rate_7d": "489.83181"
+  },
+  {
+    "collection_date": "2021-08-09T00:00:00.000",
+    "post_rslt": "48",
+    "neg_rslt": "1195",
+    "total": "1243",
+    "test_rate_7d": "418.11953"
   }
 ]
