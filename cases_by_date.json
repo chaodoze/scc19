@@ -2751,87 +2751,92 @@
   },
   {
     "date": "2021-07-30T00:00:00.000",
-    "total_cases": "123994",
-    "new_cases": "204"
+    "total_cases": "123993",
+    "new_cases": "203"
   },
   {
     "date": "2021-07-31T00:00:00.000",
-    "total_cases": "124166",
+    "total_cases": "124165",
     "new_cases": "172"
   },
   {
     "date": "2021-08-01T00:00:00.000",
-    "total_cases": "124354",
-    "new_cases": "188"
+    "total_cases": "124352",
+    "new_cases": "187"
   },
   {
     "date": "2021-08-02T00:00:00.000",
-    "total_cases": "124611",
+    "total_cases": "124609",
     "new_cases": "257"
   },
   {
     "date": "2021-08-03T00:00:00.000",
-    "total_cases": "124955",
+    "total_cases": "124953",
     "new_cases": "344"
   },
   {
     "date": "2021-08-04T00:00:00.000",
-    "total_cases": "125276",
-    "new_cases": "321"
+    "total_cases": "125277",
+    "new_cases": "324"
   },
   {
     "date": "2021-08-05T00:00:00.000",
-    "total_cases": "125665",
-    "new_cases": "389"
+    "total_cases": "125677",
+    "new_cases": "400"
   },
   {
     "date": "2021-08-06T00:00:00.000",
-    "total_cases": "125979",
-    "new_cases": "314"
+    "total_cases": "125996",
+    "new_cases": "319"
   },
   {
     "date": "2021-08-07T00:00:00.000",
-    "total_cases": "126193",
-    "new_cases": "214"
+    "total_cases": "126208",
+    "new_cases": "212"
   },
   {
     "date": "2021-08-08T00:00:00.000",
-    "total_cases": "126396",
-    "new_cases": "203"
+    "total_cases": "126413",
+    "new_cases": "205"
   },
   {
     "date": "2021-08-09T00:00:00.000",
-    "total_cases": "126726",
+    "total_cases": "126743",
     "new_cases": "330"
   },
   {
     "date": "2021-08-10T00:00:00.000",
-    "total_cases": "127092",
-    "new_cases": "366"
+    "total_cases": "127117",
+    "new_cases": "374"
   },
   {
     "date": "2021-08-11T00:00:00.000",
-    "total_cases": "127451",
-    "new_cases": "359"
+    "total_cases": "127474",
+    "new_cases": "357"
   },
   {
     "date": "2021-08-12T00:00:00.000",
-    "total_cases": "127824",
-    "new_cases": "373"
+    "total_cases": "127866",
+    "new_cases": "392"
   },
   {
     "date": "2021-08-13T00:00:00.000",
-    "total_cases": "128165",
-    "new_cases": "341"
+    "total_cases": "128234",
+    "new_cases": "368"
   },
   {
     "date": "2021-08-14T00:00:00.000",
-    "total_cases": "128240",
-    "new_cases": "75"
+    "total_cases": "128470",
+    "new_cases": "236"
   },
   {
     "date": "2021-08-15T00:00:00.000",
-    "total_cases": "128273",
-    "new_cases": "33"
+    "total_cases": "128640",
+    "new_cases": "170"
+  },
+  {
+    "date": "2021-08-16T00:00:00.000",
+    "total_cases": "128681",
+    "new_cases": "41"
   }
 ]
