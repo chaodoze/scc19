@@ -2776,137 +2776,142 @@
   },
   {
     "date": "2021-08-04T00:00:00.000",
-    "total_cases": "125807",
-    "new_cases": "426"
+    "total_cases": "125808",
+    "new_cases": "427"
   },
   {
     "date": "2021-08-05T00:00:00.000",
-    "total_cases": "126239",
-    "new_cases": "432"
+    "total_cases": "126241",
+    "new_cases": "433"
   },
   {
     "date": "2021-08-06T00:00:00.000",
-    "total_cases": "126593",
+    "total_cases": "126595",
     "new_cases": "354"
   },
   {
     "date": "2021-08-07T00:00:00.000",
-    "total_cases": "126860",
-    "new_cases": "267"
+    "total_cases": "126861",
+    "new_cases": "266"
   },
   {
     "date": "2021-08-08T00:00:00.000",
-    "total_cases": "127095",
+    "total_cases": "127096",
     "new_cases": "235"
   },
   {
     "date": "2021-08-09T00:00:00.000",
-    "total_cases": "127526",
-    "new_cases": "431"
+    "total_cases": "127528",
+    "new_cases": "432"
   },
   {
     "date": "2021-08-10T00:00:00.000",
-    "total_cases": "128024",
-    "new_cases": "498"
+    "total_cases": "128028",
+    "new_cases": "500"
   },
   {
     "date": "2021-08-11T00:00:00.000",
-    "total_cases": "128464",
-    "new_cases": "440"
+    "total_cases": "128473",
+    "new_cases": "445"
   },
   {
     "date": "2021-08-12T00:00:00.000",
-    "total_cases": "128925",
-    "new_cases": "461"
+    "total_cases": "128935",
+    "new_cases": "462"
   },
   {
     "date": "2021-08-13T00:00:00.000",
-    "total_cases": "129413",
-    "new_cases": "488"
+    "total_cases": "129422",
+    "new_cases": "487"
   },
   {
     "date": "2021-08-14T00:00:00.000",
-    "total_cases": "129726",
+    "total_cases": "129735",
     "new_cases": "313"
   },
   {
     "date": "2021-08-15T00:00:00.000",
-    "total_cases": "129962",
+    "total_cases": "129971",
     "new_cases": "236"
   },
   {
     "date": "2021-08-16T00:00:00.000",
-    "total_cases": "130348",
+    "total_cases": "130357",
     "new_cases": "386"
   },
   {
     "date": "2021-08-17T00:00:00.000",
-    "total_cases": "130856",
-    "new_cases": "508"
+    "total_cases": "130867",
+    "new_cases": "510"
   },
   {
     "date": "2021-08-18T00:00:00.000",
-    "total_cases": "131320",
-    "new_cases": "464"
+    "total_cases": "131332",
+    "new_cases": "465"
   },
   {
     "date": "2021-08-19T00:00:00.000",
-    "total_cases": "131699",
+    "total_cases": "131711",
     "new_cases": "379"
   },
   {
     "date": "2021-08-20T00:00:00.000",
-    "total_cases": "132103",
+    "total_cases": "132115",
     "new_cases": "404"
   },
   {
     "date": "2021-08-21T00:00:00.000",
-    "total_cases": "132354",
+    "total_cases": "132366",
     "new_cases": "251"
   },
   {
     "date": "2021-08-22T00:00:00.000",
-    "total_cases": "132559",
-    "new_cases": "205"
+    "total_cases": "132572",
+    "new_cases": "206"
   },
   {
     "date": "2021-08-23T00:00:00.000",
-    "total_cases": "132965",
-    "new_cases": "406"
+    "total_cases": "132979",
+    "new_cases": "407"
   },
   {
     "date": "2021-08-24T00:00:00.000",
-    "total_cases": "133386",
-    "new_cases": "421"
+    "total_cases": "133401",
+    "new_cases": "422"
   },
   {
     "date": "2021-08-25T00:00:00.000",
-    "total_cases": "133846",
-    "new_cases": "460"
+    "total_cases": "133865",
+    "new_cases": "464"
   },
   {
     "date": "2021-08-26T00:00:00.000",
-    "total_cases": "134246",
-    "new_cases": "400"
+    "total_cases": "134268",
+    "new_cases": "403"
   },
   {
     "date": "2021-08-27T00:00:00.000",
-    "total_cases": "134603",
-    "new_cases": "357"
+    "total_cases": "134645",
+    "new_cases": "377"
   },
   {
     "date": "2021-08-28T00:00:00.000",
-    "total_cases": "134785",
-    "new_cases": "182"
+    "total_cases": "134852",
+    "new_cases": "207"
   },
   {
     "date": "2021-08-29T00:00:00.000",
-    "total_cases": "134928",
-    "new_cases": "143"
+    "total_cases": "135023",
+    "new_cases": "171"
   },
   {
     "date": "2021-08-30T00:00:00.000",
-    "total_cases": "134970",
+    "total_cases": "135149",
+    "new_cases": "126"
+  },
+  {
+    "date": "2021-08-31T00:00:00.000",
+    "total_cases": "135191",
     "new_cases": "42"
   }
 ]
