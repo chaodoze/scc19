@@ -3161,72 +3161,77 @@
   },
   {
     "date": "2021-10-20T00:00:00.000",
-    "total_cases": "144544",
-    "new_cases": "166"
+    "total_cases": "144545",
+    "new_cases": "167"
   },
   {
     "date": "2021-10-21T00:00:00.000",
-    "total_cases": "144703",
+    "total_cases": "144704",
     "new_cases": "159"
   },
   {
     "date": "2021-10-22T00:00:00.000",
-    "total_cases": "144875",
+    "total_cases": "144876",
     "new_cases": "172"
   },
   {
     "date": "2021-10-23T00:00:00.000",
-    "total_cases": "144973",
-    "new_cases": "98"
+    "total_cases": "145018",
+    "new_cases": "142"
   },
   {
     "date": "2021-10-24T00:00:00.000",
-    "total_cases": "145028",
-    "new_cases": "55"
+    "total_cases": "145102",
+    "new_cases": "84"
   },
   {
     "date": "2021-10-25T00:00:00.000",
-    "total_cases": "145221",
-    "new_cases": "193"
+    "total_cases": "145291",
+    "new_cases": "189"
   },
   {
     "date": "2021-10-26T00:00:00.000",
-    "total_cases": "145401",
+    "total_cases": "145471",
     "new_cases": "180"
   },
   {
     "date": "2021-10-27T00:00:00.000",
-    "total_cases": "145590",
+    "total_cases": "145660",
     "new_cases": "189"
   },
   {
     "date": "2021-10-28T00:00:00.000",
-    "total_cases": "145787",
-    "new_cases": "197"
+    "total_cases": "145855",
+    "new_cases": "195"
   },
   {
     "date": "2021-10-29T00:00:00.000",
-    "total_cases": "145947",
-    "new_cases": "160"
+    "total_cases": "146011",
+    "new_cases": "156"
   },
   {
     "date": "2021-10-30T00:00:00.000",
-    "total_cases": "146067",
-    "new_cases": "120"
+    "total_cases": "146133",
+    "new_cases": "122"
   },
   {
     "date": "2021-10-31T00:00:00.000",
-    "total_cases": "146153",
-    "new_cases": "86"
+    "total_cases": "146220",
+    "new_cases": "87"
   },
   {
     "date": "2021-11-01T00:00:00.000",
-    "total_cases": "146277",
-    "new_cases": "124"
+    "total_cases": "146410",
+    "new_cases": "190"
   },
   {
     "date": "2021-11-02T00:00:00.000",
-    "total_cases": "146296",
-    "new_cases": "19"
+    "total_cases": "146551",
+    "new_cases": "141"
+  },
+  {
+    "date": "2021-11-03T00:00:00.000",
+    "total_cases": "146566",
+    "new_cases": "15"
   }
 ]
