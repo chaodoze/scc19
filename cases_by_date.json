@@ -3206,32 +3206,37 @@
   },
   {
     "date": "2021-10-29T00:00:00.000",
-    "total_cases": "146011",
-    "new_cases": "156"
+    "total_cases": "146010",
+    "new_cases": "155"
   },
   {
     "date": "2021-10-30T00:00:00.000",
-    "total_cases": "146133",
-    "new_cases": "122"
+    "total_cases": "146139",
+    "new_cases": "129"
   },
   {
     "date": "2021-10-31T00:00:00.000",
-    "total_cases": "146220",
-    "new_cases": "87"
+    "total_cases": "146228",
+    "new_cases": "89"
   },
   {
     "date": "2021-11-01T00:00:00.000",
-    "total_cases": "146410",
-    "new_cases": "190"
+    "total_cases": "146426",
+    "new_cases": "198"
   },
   {
     "date": "2021-11-02T00:00:00.000",
-    "total_cases": "146551",
-    "new_cases": "141"
+    "total_cases": "146610",
+    "new_cases": "184"
   },
   {
     "date": "2021-11-03T00:00:00.000",
-    "total_cases": "146566",
-    "new_cases": "15"
+    "total_cases": "146736",
+    "new_cases": "126"
+  },
+  {
+    "date": "2021-11-04T00:00:00.000",
+    "total_cases": "146756",
+    "new_cases": "20"
   }
 ]
