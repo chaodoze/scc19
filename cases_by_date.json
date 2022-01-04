@@ -3466,67 +3466,72 @@
   },
   {
     "date": "2021-12-20T00:00:00.000",
-    "total_cases": "156474",
-    "new_cases": "644"
+    "total_cases": "156475",
+    "new_cases": "645"
   },
   {
     "date": "2021-12-21T00:00:00.000",
-    "total_cases": "157213",
-    "new_cases": "739"
+    "total_cases": "157217",
+    "new_cases": "742"
   },
   {
     "date": "2021-12-22T00:00:00.000",
-    "total_cases": "158198",
-    "new_cases": "985"
+    "total_cases": "158210",
+    "new_cases": "993"
   },
   {
     "date": "2021-12-23T00:00:00.000",
-    "total_cases": "159296",
+    "total_cases": "159308",
     "new_cases": "1098"
   },
   {
     "date": "2021-12-24T00:00:00.000",
-    "total_cases": "159843",
+    "total_cases": "159855",
     "new_cases": "547"
   },
   {
     "date": "2021-12-25T00:00:00.000",
-    "total_cases": "159994",
+    "total_cases": "160006",
     "new_cases": "151"
   },
   {
     "date": "2021-12-26T00:00:00.000",
-    "total_cases": "160890",
+    "total_cases": "160902",
     "new_cases": "896"
   },
   {
     "date": "2021-12-27T00:00:00.000",
-    "total_cases": "163380",
-    "new_cases": "2490"
+    "total_cases": "163395",
+    "new_cases": "2493"
   },
   {
     "date": "2021-12-28T00:00:00.000",
-    "total_cases": "166383",
-    "new_cases": "3003"
+    "total_cases": "166406",
+    "new_cases": "3011"
   },
   {
     "date": "2021-12-29T00:00:00.000",
-    "total_cases": "169502",
-    "new_cases": "3119"
+    "total_cases": "169548",
+    "new_cases": "3142"
   },
   {
     "date": "2021-12-30T00:00:00.000",
-    "total_cases": "171846",
-    "new_cases": "2344"
+    "total_cases": "172263",
+    "new_cases": "2715"
   },
   {
     "date": "2021-12-31T00:00:00.000",
-    "total_cases": "172380",
-    "new_cases": "534"
+    "total_cases": "173585",
+    "new_cases": "1322"
   },
   {
     "date": "2022-01-01T00:00:00.000",
-    "total_cases": "172524",
-    "new_cases": "144"
+    "total_cases": "173901",
+    "new_cases": "316"
+  },
+  {
+    "date": "2022-01-02T00:00:00.000",
+    "total_cases": "174140",
+    "new_cases": "239"
   }
 ]
