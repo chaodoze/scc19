@@ -2,112 +2,112 @@
   {
     "geo_id": "610345",
     "city": "Campbell",
-    "cases": "4483",
+    "cases": "5081",
     "population": "42470",
-    "rate": "10556"
+    "rate": "11964"
   },
   {
     "geo_id": "617610",
     "city": "Cupertino",
-    "cases": "2719",
+    "cases": "3218",
     "population": "60614",
-    "rate": "4486"
+    "rate": "5309"
   },
   {
     "geo_id": "629504",
     "city": "Gilroy",
-    "cases": "11541",
+    "cases": "12716",
     "population": "55525",
-    "rate": "20785"
+    "rate": "22901"
   },
   {
     "geo_id": "643280",
     "city": "Los Altos",
-    "cases": "1770",
+    "cases": "2001",
     "population": "30588",
-    "rate": "5787"
+    "rate": "6542"
   },
   {
     "geo_id": "643294",
     "city": "Los Altos Hills",
-    "cases": "529",
+    "cases": "587",
     "population": "8517",
-    "rate": "6211"
+    "rate": "6892"
   },
   {
     "geo_id": "644112",
     "city": "Los Gatos",
-    "cases": "3016",
+    "cases": "3398",
     "population": "30922",
-    "rate": "9754"
+    "rate": "10989"
   },
   {
     "geo_id": "647766",
     "city": "Milpitas",
-    "cases": "7175",
+    "cases": "8278",
     "population": "77457",
-    "rate": "9263"
+    "rate": "10687"
   },
   {
     "geo_id": "648956",
     "city": "Monte Sereno",
-    "cases": "259",
+    "cases": "293",
     "population": "3492",
-    "rate": "7417"
+    "rate": "8391"
   },
   {
     "geo_id": "649278",
     "city": "Morgan Hill",
-    "cases": "6747",
+    "cases": "7613",
     "population": "43876",
-    "rate": "15377"
+    "rate": "17351"
   },
   {
     "geo_id": "649670",
     "city": "Mountain View",
-    "cases": "5912",
+    "cases": "6703",
     "population": "80993",
-    "rate": "7299"
+    "rate": "8276"
   },
   {
     "geo_id": "0",
     "city": "Other/Unknown",
-    "cases": "8881",
+    "cases": "10655",
     "population": "0"
   },
   {
     "geo_id": "655282",
     "city": "Palo Alto",
-    "cases": "3664",
+    "cases": "4313",
     "population": "67019",
-    "rate": "5467"
+    "rate": "6435"
   },
   {
     "geo_id": "668000",
     "city": "San Jose",
-    "cases": "137728",
+    "cases": "155764",
     "population": "1026658",
-    "rate": "13415"
+    "rate": "15172"
   },
   {
     "geo_id": "669084",
     "city": "Santa Clara",
-    "cases": "11342",
+    "cases": "13021",
     "population": "126209",
-    "rate": "8987"
+    "rate": "10317"
   },
   {
     "geo_id": "670280",
     "city": "Saratoga",
-    "cases": "1670",
+    "cases": "1897",
     "population": "30886",
-    "rate": "5407"
+    "rate": "6142"
   },
   {
     "geo_id": "677000",
     "city": "Sunnyvale",
-    "cases": "11224",
+    "cases": "12981",
     "population": "152323",
-    "rate": "7369"
+    "rate": "8522"
   }
 ]
