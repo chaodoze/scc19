@@ -1596,98 +1596,98 @@
   },
   {
     "date": "2020-12-11T00:00:00.000",
-    "total_cases": "50598",
-    "new_cases": "1114"
+    "total_cases": "50597",
+    "new_cases": "1113"
   },
   {
     "date": "2020-12-12T00:00:00.000",
-    "total_cases": "51418",
+    "total_cases": "51417",
     "new_cases": "820"
   },
   {
     "date": "2020-12-13T00:00:00.000",
-    "total_cases": "52184",
+    "total_cases": "52183",
     "new_cases": "766"
   },
   {
     "date": "2020-12-14T00:00:00.000",
-    "total_cases": "53433",
+    "total_cases": "53432",
     "new_cases": "1249"
   },
   {
     "date": "2020-12-15T00:00:00.000",
-    "total_cases": "55270",
+    "total_cases": "55269",
     "new_cases": "1837"
   },
   {
     "date": "2020-12-16T00:00:00.000",
-    "total_cases": "56912",
+    "total_cases": "56911",
     "new_cases": "1642"
   },
   {
     "date": "2020-12-17T00:00:00.000",
-    "total_cases": "58410",
+    "total_cases": "58409",
     "new_cases": "1498"
   },
   {
     "date": "2020-12-18T00:00:00.000",
-    "total_cases": "59595",
+    "total_cases": "59594",
     "new_cases": "1185"
   },
   {
     "date": "2020-12-19T00:00:00.000",
-    "total_cases": "60342",
+    "total_cases": "60341",
     "new_cases": "747"
   },
   {
     "date": "2020-12-20T00:00:00.000",
-    "total_cases": "60942",
+    "total_cases": "60941",
     "new_cases": "600"
   },
   {
     "date": "2020-12-21T00:00:00.000",
-    "total_cases": "62468",
+    "total_cases": "62467",
     "new_cases": "1526"
   },
   {
     "date": "2020-12-22T00:00:00.000",
-    "total_cases": "63905",
+    "total_cases": "63904",
     "new_cases": "1437"
   },
   {
     "date": "2020-12-23T00:00:00.000",
-    "total_cases": "65339",
+    "total_cases": "65338",
     "new_cases": "1434"
   },
   {
     "date": "2020-12-24T00:00:00.000",
-    "total_cases": "66080",
+    "total_cases": "66079",
     "new_cases": "741"
   },
   {
     "date": "2020-12-25T00:00:00.000",
-    "total_cases": "66290",
+    "total_cases": "66289",
     "new_cases": "210"
   },
   {
     "date": "2020-12-26T00:00:00.000",
-    "total_cases": "67281",
+    "total_cases": "67280",
     "new_cases": "991"
   },
   {
     "date": "2020-12-27T00:00:00.000",
-    "total_cases": "68088",
+    "total_cases": "68087",
     "new_cases": "807"
   },
   {
     "date": "2020-12-28T00:00:00.000",
-    "total_cases": "69910",
+    "total_cases": "69909",
     "new_cases": "1822"
   },
   {
     "date": "2020-12-29T00:00:00.000",
     "total_cases": "71725",
-    "new_cases": "1815"
+    "new_cases": "1816"
   },
   {
     "date": "2020-12-30T00:00:00.000",
@@ -4046,33 +4046,33 @@
   },
   {
     "date": "2022-04-15T00:00:00.000",
-    "total_cases": "312959",
-    "new_cases": "290"
+    "total_cases": "312960",
+    "new_cases": "291"
   },
   {
     "date": "2022-04-16T00:00:00.000",
-    "total_cases": "313207",
+    "total_cases": "313208",
     "new_cases": "248"
   },
   {
     "date": "2022-04-17T00:00:00.000",
-    "total_cases": "313400",
+    "total_cases": "313401",
     "new_cases": "193"
   },
   {
     "date": "2022-04-18T00:00:00.000",
-    "total_cases": "313833",
+    "total_cases": "313834",
     "new_cases": "433"
   },
   {
     "date": "2022-04-19T00:00:00.000",
-    "total_cases": "314268",
+    "total_cases": "314269",
     "new_cases": "435"
   },
   {
     "date": "2022-04-20T00:00:00.000",
     "total_cases": "314680",
-    "new_cases": "412"
+    "new_cases": "411"
   },
   {
     "date": "2022-04-21T00:00:00.000",
@@ -4096,87 +4096,92 @@
   },
   {
     "date": "2022-04-25T00:00:00.000",
-    "total_cases": "316783",
-    "new_cases": "655"
+    "total_cases": "316782",
+    "new_cases": "654"
   },
   {
     "date": "2022-04-26T00:00:00.000",
-    "total_cases": "317391",
-    "new_cases": "608"
+    "total_cases": "317388",
+    "new_cases": "606"
   },
   {
     "date": "2022-04-27T00:00:00.000",
-    "total_cases": "317927",
-    "new_cases": "536"
+    "total_cases": "317922",
+    "new_cases": "534"
   },
   {
     "date": "2022-04-28T00:00:00.000",
-    "total_cases": "318445",
-    "new_cases": "518"
+    "total_cases": "318441",
+    "new_cases": "519"
   },
   {
     "date": "2022-04-29T00:00:00.000",
-    "total_cases": "318983",
+    "total_cases": "318979",
     "new_cases": "538"
   },
   {
     "date": "2022-04-30T00:00:00.000",
-    "total_cases": "319416",
-    "new_cases": "433"
+    "total_cases": "319413",
+    "new_cases": "434"
   },
   {
     "date": "2022-05-01T00:00:00.000",
-    "total_cases": "319793",
+    "total_cases": "319790",
     "new_cases": "377"
   },
   {
     "date": "2022-05-02T00:00:00.000",
-    "total_cases": "320637",
+    "total_cases": "320634",
     "new_cases": "844"
   },
   {
     "date": "2022-05-03T00:00:00.000",
-    "total_cases": "321517",
+    "total_cases": "321514",
     "new_cases": "880"
   },
   {
     "date": "2022-05-04T00:00:00.000",
-    "total_cases": "322325",
+    "total_cases": "322322",
     "new_cases": "808"
   },
   {
     "date": "2022-05-05T00:00:00.000",
-    "total_cases": "323098",
-    "new_cases": "773"
+    "total_cases": "323096",
+    "new_cases": "774"
   },
   {
     "date": "2022-05-06T00:00:00.000",
-    "total_cases": "323846",
+    "total_cases": "323844",
     "new_cases": "748"
   },
   {
     "date": "2022-05-07T00:00:00.000",
     "total_cases": "324370",
-    "new_cases": "524"
+    "new_cases": "526"
   },
   {
     "date": "2022-05-08T00:00:00.000",
-    "total_cases": "324821",
-    "new_cases": "451"
+    "total_cases": "324820",
+    "new_cases": "450"
   },
   {
     "date": "2022-05-09T00:00:00.000",
-    "total_cases": "325748",
-    "new_cases": "927"
+    "total_cases": "325794",
+    "new_cases": "974"
   },
   {
     "date": "2022-05-10T00:00:00.000",
-    "total_cases": "326470",
-    "new_cases": "722"
+    "total_cases": "326892",
+    "new_cases": "1098"
   },
   {
     "date": "2022-05-11T00:00:00.000",
-    "total_cases": "326546",
-    "new_cases": "76"
+    "total_cases": "327619",
+    "new_cases": "727"
+  },
+  {
+    "date": "2022-05-12T00:00:00.000",
+    "total_cases": "327698",
+    "new_cases": "79"
   }
 ]
