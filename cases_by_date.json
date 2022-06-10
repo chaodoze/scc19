@@ -4176,48 +4176,48 @@
   },
   {
     "date": "2022-05-11T00:00:00.000",
-    "total_cases": "327910",
-    "new_cases": "979"
+    "total_cases": "327909",
+    "new_cases": "978"
   },
   {
     "date": "2022-05-12T00:00:00.000",
-    "total_cases": "328887",
+    "total_cases": "328886",
     "new_cases": "977"
   },
   {
     "date": "2022-05-13T00:00:00.000",
-    "total_cases": "329792",
+    "total_cases": "329791",
     "new_cases": "905"
   },
   {
     "date": "2022-05-14T00:00:00.000",
-    "total_cases": "330482",
+    "total_cases": "330481",
     "new_cases": "690"
   },
   {
     "date": "2022-05-15T00:00:00.000",
-    "total_cases": "331186",
+    "total_cases": "331185",
     "new_cases": "704"
   },
   {
     "date": "2022-05-16T00:00:00.000",
-    "total_cases": "332479",
+    "total_cases": "332478",
     "new_cases": "1293"
   },
   {
     "date": "2022-05-17T00:00:00.000",
-    "total_cases": "333744",
+    "total_cases": "333743",
     "new_cases": "1265"
   },
   {
     "date": "2022-05-18T00:00:00.000",
-    "total_cases": "334926",
+    "total_cases": "334925",
     "new_cases": "1182"
   },
   {
     "date": "2022-05-19T00:00:00.000",
     "total_cases": "336111",
-    "new_cases": "1185"
+    "new_cases": "1186"
   },
   {
     "date": "2022-05-20T00:00:00.000",
@@ -4226,58 +4226,58 @@
   },
   {
     "date": "2022-05-21T00:00:00.000",
-    "total_cases": "337823",
-    "new_cases": "684"
+    "total_cases": "337824",
+    "new_cases": "685"
   },
   {
     "date": "2022-05-22T00:00:00.000",
-    "total_cases": "338532",
-    "new_cases": "709"
+    "total_cases": "338534",
+    "new_cases": "710"
   },
   {
     "date": "2022-05-23T00:00:00.000",
-    "total_cases": "339865",
+    "total_cases": "339867",
     "new_cases": "1333"
   },
   {
     "date": "2022-05-24T00:00:00.000",
-    "total_cases": "341183",
+    "total_cases": "341185",
     "new_cases": "1318"
   },
   {
     "date": "2022-05-25T00:00:00.000",
-    "total_cases": "342472",
+    "total_cases": "342474",
     "new_cases": "1289"
   },
   {
     "date": "2022-05-26T00:00:00.000",
-    "total_cases": "343563",
+    "total_cases": "343565",
     "new_cases": "1091"
   },
   {
     "date": "2022-05-27T00:00:00.000",
-    "total_cases": "344518",
+    "total_cases": "344520",
     "new_cases": "955"
   },
   {
     "date": "2022-05-28T00:00:00.000",
-    "total_cases": "345189",
+    "total_cases": "345191",
     "new_cases": "671"
   },
   {
     "date": "2022-05-29T00:00:00.000",
-    "total_cases": "345870",
+    "total_cases": "345872",
     "new_cases": "681"
   },
   {
     "date": "2022-05-30T00:00:00.000",
-    "total_cases": "346547",
-    "new_cases": "677"
+    "total_cases": "346548",
+    "new_cases": "676"
   },
   {
     "date": "2022-05-31T00:00:00.000",
     "total_cases": "348074",
-    "new_cases": "1527"
+    "new_cases": "1526"
   },
   {
     "date": "2022-06-01T00:00:00.000",
@@ -4286,32 +4286,37 @@
   },
   {
     "date": "2022-06-02T00:00:00.000",
-    "total_cases": "350508",
-    "new_cases": "1107"
+    "total_cases": "350509",
+    "new_cases": "1108"
   },
   {
     "date": "2022-06-03T00:00:00.000",
-    "total_cases": "351560",
-    "new_cases": "1052"
+    "total_cases": "351564",
+    "new_cases": "1055"
   },
   {
     "date": "2022-06-04T00:00:00.000",
-    "total_cases": "352364",
-    "new_cases": "804"
+    "total_cases": "352371",
+    "new_cases": "807"
   },
   {
     "date": "2022-06-05T00:00:00.000",
-    "total_cases": "353095",
-    "new_cases": "731"
+    "total_cases": "353118",
+    "new_cases": "747"
   },
   {
     "date": "2022-06-06T00:00:00.000",
-    "total_cases": "354009",
-    "new_cases": "914"
+    "total_cases": "354409",
+    "new_cases": "1291"
   },
   {
     "date": "2022-06-07T00:00:00.000",
-    "total_cases": "354111",
-    "new_cases": "102"
+    "total_cases": "355319",
+    "new_cases": "910"
+  },
+  {
+    "date": "2022-06-08T00:00:00.000",
+    "total_cases": "355439",
+    "new_cases": "120"
   }
 ]
