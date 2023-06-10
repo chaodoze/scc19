@@ -1,0 +1,113 @@
+[
+  {
+    "geo_id": "610345",
+    "city": "Campbell",
+    "cases": "10208",
+    "population": "42470",
+    "rate": "24036"
+  },
+  {
+    "geo_id": "617610",
+    "city": "Cupertino",
+    "cases": "8797",
+    "population": "60614",
+    "rate": "14513"
+  },
+  {
+    "geo_id": "629504",
+    "city": "Gilroy",
+    "cases": "21023",
+    "population": "55525",
+    "rate": "37862"
+  },
+  {
+    "geo_id": "643280",
+    "city": "Los Altos",
+    "cases": "5034",
+    "population": "30588",
+    "rate": "16457"
+  },
+  {
+    "geo_id": "643294",
+    "city": "Los Altos Hills",
+    "cases": "1262",
+    "population": "8517",
+    "rate": "14817"
+  },
+  {
+    "geo_id": "644112",
+    "city": "Los Gatos",
+    "cases": "6991",
+    "population": "30922",
+    "rate": "22608"
+  },
+  {
+    "geo_id": "647766",
+    "city": "Milpitas",
+    "cases": "17720",
+    "population": "77457",
+    "rate": "22877"
+  },
+  {
+    "geo_id": "648956",
+    "city": "Monte Sereno",
+    "cases": "346",
+    "population": "3492",
+    "rate": "9908"
+  },
+  {
+    "geo_id": "649278",
+    "city": "Morgan Hill",
+    "cases": "13929",
+    "population": "43876",
+    "rate": "31746"
+  },
+  {
+    "geo_id": "649670",
+    "city": "Mountain View",
+    "cases": "14229",
+    "population": "80993",
+    "rate": "17568"
+  },
+  {
+    "geo_id": "0",
+    "city": "Other/Unknown",
+    "cases": "22307",
+    "population": "0"
+  },
+  {
+    "geo_id": "655282",
+    "city": "Palo Alto",
+    "cases": "10980",
+    "population": "67019",
+    "rate": "16383"
+  },
+  {
+    "geo_id": "668000",
+    "city": "San Jose",
+    "cases": "291165",
+    "population": "1026658",
+    "rate": "28360"
+  },
+  {
+    "geo_id": "669084",
+    "city": "Santa Clara",
+    "cases": "28035",
+    "population": "126209",
+    "rate": "22213"
+  },
+  {
+    "geo_id": "670280",
+    "city": "Saratoga",
+    "cases": "4682",
+    "population": "30886",
+    "rate": "15159"
+  },
+  {
+    "geo_id": "677000",
+    "city": "Sunnyvale",
+    "cases": "27807",
+    "population": "152323",
+    "rate": "18255"
+  }
+]
