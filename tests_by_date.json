@@ -6818,10 +6818,10 @@
   {
     "collection_date": "2022-05-24T00:00:00.000",
     "post_rslt": "1683",
-    "neg_rslt": "19969",
-    "total": "21652",
+    "neg_rslt": "19970",
+    "total": "21653",
     "rate_pst_7d": "0.08651",
-    "test_rate_7d": "817.42981"
+    "test_rate_7d": "817.43722"
   },
   {
     "collection_date": "2022-05-25T00:00:00.000",
@@ -6829,7 +6829,7 @@
     "neg_rslt": "16579",
     "total": "18177",
     "rate_pst_7d": "0.0881",
-    "test_rate_7d": "812.24166"
+    "test_rate_7d": "812.24907"
   },
   {
     "collection_date": "2022-05-26T00:00:00.000",
@@ -6837,7 +6837,7 @@
     "neg_rslt": "15487",
     "total": "16869",
     "rate_pst_7d": "0.09029",
-    "test_rate_7d": "781.84652"
+    "test_rate_7d": "781.85393"
   },
   {
     "collection_date": "2022-05-27T00:00:00.000",
@@ -6845,7 +6845,7 @@
     "neg_rslt": "10952",
     "total": "12237",
     "rate_pst_7d": "0.09309",
-    "test_rate_7d": "750.58422"
+    "test_rate_7d": "750.59163"
   },
   {
     "collection_date": "2022-05-28T00:00:00.000",
@@ -6853,7 +6853,7 @@
     "neg_rslt": "4094",
     "total": "4989",
     "rate_pst_7d": "0.09337",
-    "test_rate_7d": "748.13097"
+    "test_rate_7d": "748.13838"
   },
   {
     "collection_date": "2022-05-29T00:00:00.000",
@@ -6861,7 +6861,7 @@
     "neg_rslt": "3787",
     "total": "4679",
     "rate_pst_7d": "0.09404",
-    "test_rate_7d": "741.75696"
+    "test_rate_7d": "741.76437"
   },
   {
     "collection_date": "2022-05-30T00:00:00.000",
@@ -6869,7 +6869,7 @@
     "neg_rslt": "5323",
     "total": "6225",
     "rate_pst_7d": "0.10182",
-    "test_rate_7d": "628.71462"
+    "test_rate_7d": "628.72203"
   },
   {
     "collection_date": "2022-05-31T00:00:00.000",
@@ -7986,10 +7986,10 @@
   {
     "collection_date": "2022-10-17T00:00:00.000",
     "post_rslt": "231",
-    "neg_rslt": "5163",
-    "total": "5394",
+    "neg_rslt": "5164",
+    "total": "5395",
     "rate_pst_7d": "0.05028",
-    "test_rate_7d": "210.77223"
+    "test_rate_7d": "210.77964"
   },
   {
     "collection_date": "2022-10-18T00:00:00.000",
@@ -7997,6 +7997,6 @@
     "neg_rslt": "5741",
     "total": "5992",
     "rate_pst_7d": "0.05049",
-    "test_rate_7d": "211.98032"
+    "test_rate_7d": "211.98774"
   }
 ]
